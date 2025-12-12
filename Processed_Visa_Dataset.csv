@@ -1,0 +1,1172 @@
+RECEIVED_DATE,EMPLOYER_STATE_PROVINCE,PW_SOC_CODE,PW_SOC_TITLE,SOC_MAJOR_GROUP,PW_SKILL_LEVEL,PW_WAGE,WORKSITE_STATE,MINIMUM_EDUCATION,SUBMISSION_MONTH,SUBMISSION_YEAR,CASE_STATUS,PROCESSING_TIME_DAYS
+2023-02-27,ILLINOIS,25-1067.00,"Sociology Teachers, Postsecondary",25,Level I,44490.0,ILLINOIS,Doctorate,2,2023,Denied,582
+2022-10-03,NORTH CAROLINA,11-3031,Financial Managers,11,Level I,125986.0,NEW YORK,Bachelor's,10,2022,Denied,730
+2022-07-22,CONNECTICUT CT,11-9051,Food Service Managers,11,Level IV,119434.0,CONNECTICUT,High School,7,2022,Denied,803
+2022-06-20,FLORIDA,11-9013,Regional Farm Manager,11,Level IV,161866.0,FLORIDA,Bachelor's,6,2022,Denied,835
+2022-09-30,GEORGIA,11-9021,Construction Managers,11,Level II,83762.0,GEORGIA,Unknown,9,2022,Denied,733
+2022-06-22,SOUTH CAROLINA,13-1111,Management Analyst,13,Level I,58469.0,SOUTH CAROLINA,Unknown,6,2022,Denied,833
+2022-06-23,CALIFORNIA,13-2011,Accountant,13,Level I,67205.0,CALIFORNIA,Bachelor's,6,2022,Denied,832
+2022-07-28,NEW YORK,13-2051,Financial Analysts,13,Level III,130021.0,NEW YORK,Master's,7,2022,Denied,797
+2021-06-11,CALIFORNIA,15-1111,Computer and Information Research Scientists,15,Level II,107245.0,CALIFORNIA,Doctorate,6,2021,Denied,1209
+2022-10-31,CALIFORNIA,15-1121,Computer Systems Analysts,15,Level IV,130957.0,CALIFORNIA,Master's,10,2022,Denied,702
+2021-10-15,CALIFORNIA,15-1132,"Software Developers, Applications",15,Level II,121763.0,CALIFORNIA,Master's,10,2021,Denied,1083
+2022-04-25,CALIFORNIA,15-1132,"Software Developers, Applications",15,Level II,130894.0,CALIFORNIA,Master's,4,2022,Denied,891
+2022-03-23,FLORIDA,15-1132,"Software Developers, Applications",15,Level II,75338.0,FLORIDA,Master's,3,2022,Denied,924
+2022-06-14,NEW JERSEY,15-1132,Java Software Developer,15,Level II,89128.0,NEW JERSEY,Master's,6,2022,Denied,841
+2022-06-29,OREGON,15-1132,"Software Developers, Applications",15,Level II,93018.0,OREGON,Master's,6,2022,Denied,826
+2022-06-28,OREGON,15-1132,"Software Developers, Applications",15,Level I,74734.0,OREGON,Bachelor's,6,2022,Denied,827
+2022-10-01,TEXAS 75024,15-1132,"Software Developers, Applications",15,Level II,76898.0,TEXAS,Bachelor's,10,2022,Denied,732
+2022-10-21,NEW JERSEY,15-1132,"Software Developers, Applications",15,Level II,109283.0,NEW JERSEY,Master's,10,2022,Denied,712
+2022-10-22,NEW JERSEY,15-1132,"Software Developers, Applications",15,Level II,109283.0,NEW JERSEY,Master's,10,2022,Denied,711
+2021-03-07,CALIFORNIA,15-1133,"Software Developers, Systems Software",15,Level II,120931.0,CALIFORNIA,Master's,3,2021,Denied,1305
+2021-09-19,CALIFORNIA,15-1133,"Software Developers, Systems Software",15,Level II,120931.0,CALIFORNIA,Master's,9,2021,Denied,1109
+2021-11-18,NEW YORK,15-1141,Database Administrators,15,Level II,95680.0,NEW YORK,Master's,11,2021,Denied,1049
+2021-03-07,CALIFORNIA,15-1199,Business Intelligence Analysts,15,Level III,120370.0,CALIFORNIA,Master's,3,2021,Denied,1305
+2021-09-27,CALIFORNIA,15-1199,"Computer Occupations, All Other",15,Unknown,120569.0,CALIFORNIA,Master's,9,2021,Denied,1101
+2022-07-18,NEW YORK,15-1199,Search Marketing Strategist,15,Level I,45282.0,NEW YORK,Bachelor's,7,2022,Denied,807
+2022-10-06,CALIFORNIA,15-1199,Computer Systems EngineersArchitects,15,Level IV,109595.0,CALIFORNIA,Bachelor's,10,2022,Denied,727
+2022-11-07,MICHIGAN,15-1199,"Computer Occupations, All Other",15,Level II,56264.0,MICHIGAN,Master's,11,2022,Certified,695
+2022-10-26,OHIO,15-1211.00,Computer Systems Analysts,15,Level IV,138590.0,NEW YORK,Bachelor's,10,2022,Denied,707
+2022-10-24,NEW JERSEY,15-1252.00,"Software Developers, Applications",15,Level II,109283.0,NEW JERSEY,Master's,10,2022,Denied,709
+2022-11-15,PENNSYLVANIA,15-1252.00,Software Developers,15,Level IV,132330.0,PENNSYLVANIA,Bachelor's,11,2022,Certified,687
+2021-10-07,PENNSYLVANIA,15-2031,Operations Research Analysts,15,Level I,54205.0,PENNSYLVANIA,Master's,10,2021,Certified,1091
+2022-10-24,NEW YORK,15-2031,Operations Research Analysts,15,Level II,76440.0,MASSACHUSETTS,Master's,10,2022,Denied,709
+2021-08-30,CALIFORNIA,15-2041,Statisticians,15,Level II,103002.0,CALIFORNIA,Doctorate,8,2021,Denied,1129
+2022-11-11,ILLINOIS,17-2051,Civil Engineers,17,Level II,82451.0,ILLINOIS,Master's,11,2022,Certified,691
+2022-11-09,DELAWARE,17-2141,Mechanical Engineers,17,Level II,79539.0,DELAWARE,Master's,11,2022,Denied,693
+2022-06-22,CALIFORNIA,23-2011,Paralegal,23,Level III,76024.0,CALIFORNIA,Master's,6,2022,Denied,833
+2022-06-27,TEXAS,25-2053,"Special Education Teachers, Middle School",25,Level II,57677.0,TEXAS,Bachelor's,6,2022,Denied,828
+2022-05-09,ILLINOIS,27-1025,Senior Designer,27,Level II,54725.0,ILLINOIS,Bachelor's,5,2022,Denied,877
+2022-06-23,OKLAHOMA,27-1025,Interior Designer,27,Level I,31990.0,OKLAHOMA,Bachelor's,6,2022,Denied,832
+2022-09-28,FLORIDA,27-2022.00,Tennis Coach,27,Level III,46393.0,FLORIDA,Master's,9,2022,Denied,735
+2022-12-16,RHODE ISLAND,29-1051,Pharmacists,29,Level II,102315.0,MISSOURI,Other,12,2022,Certified,656
+2022-06-30,MINNESOTA,31-1011,Home Health Aide,31,Level I,25646.0,MINNESOTA,High School,6,2022,Denied,825
+2021-11-19,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1048
+2021-11-19,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1048
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1045
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1045
+2021-11-19,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1048
+2021-11-23,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1044
+2021-11-30,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1037
+2022-09-22,UTAH,31-9092,Medical Assistan,31,Level III,17.83,UTAH,Associate's,9,2022,Denied,741
+2022-06-03,VIRGINIA,35-1011,Pastry Chef,35,Level III,61818.0,VIRGINIA,High School,6,2022,Denied,852
+2022-06-17,NORTH CAROLINA,35-1012,FirstLine Supervisors of Food Preparation and Serving Workers,35,Level I,24710.0,FLORIDA,High School,6,2022,Denied,838
+2022-09-22,NEW YORK,37-1012,LANDSCAPE SUPERVISOR,37,Level III,66019.0,NEW YORK,Unknown,9,2022,Denied,741
+2022-10-27,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,706
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,720
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,720
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,720
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,720
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,720
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,720
+2022-06-17,PENNSYLVANIA,39-9021,Personal Care Aides,39,Level III,28080.0,PENNSYLVANIA,Unknown,6,2022,Denied,838
+2022-03-04,NEW JERSEY NJ,39-9032,Recreation Workers,39,Level I,26250.0,NEW JERSEY,High School,3,2022,Denied,943
+2021-10-18,NEW YORK,41-3031,"SALES AGENTS, SECURITIES AND COMMODITIES",41,Level IV,196976.0,NEW YORK,Master's,10,2021,Certified,1080
+2022-06-23,NEW YORK,43-3031,Accounting Associate,43,Level III,50960.0,NEW YORK,High School,6,2022,Denied,832
+2022-09-01,TEXAS,43-3031.00,"BOOKKEEPING, ACCOUNTING, AND AUDITING CLERKS",43,Level III,45677.0,TEXAS,Unknown,9,2022,Denied,762
+2022-06-02,CALIFORNIA,43-4051,Customer Service Representatives,43,Level IV,48131.0,CALIFORNIA,High School,6,2022,Denied,853
+2022-06-30,FLORIDA,43-6014,Administrative Assistant,43,Level I,24586.0,FLORIDA,High School,6,2022,Denied,825
+2022-06-28,CALIFORNIA,43-9061,OFFICE CLERK,43,Level I,16.88,CALIFORNIA,High School,6,2022,Denied,827
+2022-06-17,OKLAHOMA,49-1011,PRODUCTION CREW SUPERVISOR,49,Level IV,82659.0,OKLAHOMA,Associate's,6,2022,Denied,838
+2022-09-26,TEXAS,49-2011,"Computer, Automated Teller And Machine Repairers",49,Level I,26312.0,TEXAS,Unknown,9,2022,Denied,737
+2022-06-29,NORTH CAROLINA,49-2096,12v Technician,49,Level I,40706.0,NORTH CAROLINA,High School,6,2022,Denied,826
+2022-09-07,NEBRASKA,53-3032,Truck Driver,53,Level IV,56826.0,NEBRASKA,High School,9,2022,Denied,756
+2022-09-13,NEBRASKA,53-3032,Heavy and TractorTrailer Truck Drivers,53,Level I,34840.0,NEBRASKA,Unknown,9,2022,Denied,750
+2022-09-13,NEBRASKA,53-3032,Heavy and TractorTrailer Truck Drivers,53,Level I,34840.0,NEBRASKA,Unknown,9,2022,Denied,750
+2022-09-22,UTAH,53-3032,TRUCK DRIVING,53,Unknown,21.0,UTAH,High School,9,2022,Denied,741
+2022-09-22,UTAH,53-3032,SUPERVISOR TRUCK DRIVER,53,Unknown,21.0,UTAH,High School,9,2022,Denied,741
+2022-09-22,UTAH,53-3032,TRUCK DRIVEROFFICE ASSISTANT,53,Unknown,20.0,UTAH,High School,9,2022,Denied,741
+2022-09-22,UTAH,53-3032,TRUCK DRIVING,53,Unknown,21.0,UTAH,High School,9,2022,Denied,741
+2022-11-14,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,688
+2022-11-14,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,688
+2022-11-14,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,688
+2022-11-14,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,688
+2022-11-15,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,687
+2022-11-16,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,686
+2022-11-16,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,686
+2022-12-01,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,12,2022,Denied,671
+2022-07-29,GEORGIA,53-7064,"Packers and Packagers, Hand",53,Level I,19968.0,GEORGIA,Unknown,7,2022,Denied,796
+2022-08-11,FLORIDA ORANGE,11-2011.00,EVENTS COORDINATOR,11,Level I,55682.0,FLORIDA,Bachelor's,8,2022,Certified,785
+2022-11-04,TEXAS,15-1132,"Software Developers, Applications",15,Level II,94037.0,TEXAS,Bachelor's,11,2022,Certified,700
+2022-11-04,TEXAS,15-1132,"Software Developers, Applications",15,Level II,94037.0,TEXAS,Bachelor's,11,2022,Certified,700
+2022-11-04,TEXAS,15-1132,"Software Developers, Applications",15,Level II,94037.0,TEXAS,Bachelor's,11,2022,Certified,700
+2022-11-04,TEXAS,15-1132,"Software Developers, Applications",15,Level II,94037.0,TEXAS,Bachelor's,11,2022,Certified,700
+2022-10-31,CALIFORNIA,15-1133,"Software Developers, Systems Software",15,Level IV,139818.0,CALIFORNIA,Bachelor's,10,2022,Certified,704
+2022-11-04,PENNSYLVANIA,15-1199,"Computer Occupations, All Other",15,Level IV,100006.0,PENNSYLVANIA,Bachelor's,11,2022,Certified,700
+2022-12-12,CALIFORNIA,17-2112,Industrial Engineer,17,Level I,68037.0,CALIFORNIA,Bachelor's,12,2022,Certified,662
+2022-11-04,MICHIGAN,17-2141,Design Mechanical Engineer,17,Level I,67829.0,MICHIGAN,Bachelor's,11,2022,Certified,700
+2022-11-01,NEW YORK,35-2021,Food Preparer,35,Level I,24274.0,NEW YORK,Unknown,11,2022,Certified,703
+2022-11-11,NEVADA,37-2011,JANITOR,37,Level I,20779.0,NEVADA,Unknown,11,2022,Certified,693
+2022-12-21,MASSACHUSETTS,39-9011.01,LiveIn Nanny,39,Level IV,35693.0,MASSACHUSETTS,Unknown,12,2022,Certified,653
+2022-08-18,DISTRICT OF COLUMBIA,43-6012,Legal Secretaries,43,Level III,73736.0,DISTRICT OF COLUMBIA,Bachelor's,8,2022,Certified,778
+2022-08-17,NEW JERSEY,27-2041,Religious Music Director,27,Level II,60466.0,NEW JERSEY,Bachelor's,8,2022,Certified,783
+2023-05-31,MONTANA,45-2092.00,Farm Worker,45,Level I,25688.0,MONTANA,Unknown,5,2023,Denied,496
+2022-08-22,TEXAS,11-3051,Industrial Production Managers,11,Level II,82680.0,TEXAS,Bachelor's,8,2022,Certified,779
+2022-06-07,NEW YORK,11-2021,Marketing Managers,11,Unknown,125681.0,NEW YORK,Bachelor's,6,2022,Denied,855
+2022-09-27,FLORIDA,13-1151,Training and Development Specialists,13,Level I,34819.0,FLORIDA,Bachelor's,9,2022,Denied,743
+2022-10-18,NEW JERSEY,15-1121,Computer Systems Analysts,15,Unknown,110177.0,GEORGIA,Bachelor's,10,2022,Denied,722
+2022-11-02,CALIFORNIA,15-1132,"Software Developers, Applications",15,Level IV,139818.0,CALIFORNIA,Master's,11,2022,Denied,707
+2022-10-21,MISSOURI,15-1132,"Software Developers, Applications",15,Level IV,124883.0,PENNSYLVANIA,Bachelor's,10,2022,Denied,719
+2022-06-28,NORTHERN MARIANA ISLANDS,15-1143,IP Network Engineer,15,Unknown,20.06,NORTHERN MARIANA ISLANDS,Bachelor's,6,2022,Denied,834
+2022-12-01,COLORADO,15-1199,Business Intelligence Analysts,15,Level II,68432.0,MASSACHUSETTS,Master's,12,2022,Certified,678
+2022-06-29,MASSACHUSETTS,15-1199,"Computer Occupations, All Other",15,Level I,66872.0,MASSACHUSETTS,Bachelor's,6,2022,Denied,833
+2022-07-05,NEW YORK,15-1211.00,IT AND COMPUTER SYSTEM ADMINISTRATOR,15,Unknown,70616.0,NEW YORK,Bachelor's,7,2022,Denied,827
+2022-11-02,OHIO,15-1243.00,Software Developer,15,Level IV,121222.0,OHIO,Bachelor's,11,2022,Denied,707
+2022-12-14,CALIFORNIA,15-1244.00,Network and Computer Systems Administrators,15,Level IV,115627.0,CALIFORNIA,Bachelor's,12,2022,Certified,665
+2022-11-18,NEW YORK,15-1244.00,Network and Computer System Administrator,15,Level II,43.53,NEW YORK,Bachelor's,11,2022,Denied,691
+2022-10-24,NEW JERSEY,15-1252.00,Software Developer,15,Level II,109283.0,NEW JERSEY,Master's,10,2022,Denied,716
+2022-12-02,CALIFORNIA,15-1252.00,Software Developers,15,Level II,84614.0,PENNSYLVANIA,Master's,12,2022,Denied,677
+2022-09-06,OHIO,17-2071,Instrumentation  Controls Engineer,17,Level II,74152.0,OHIO,Master's,9,2022,Denied,764
+2022-10-07,MISSISSIPPI copiah county schools,25-2031,Secondary School Teacher Mathematics,25,Level I,33850.0,MISSISSIPPI,Bachelor's,10,2022,Denied,733
+2022-08-02,WISCONSIN,31-1011,Caregiver,31,Level III,26936.0,WISCONSIN,High School,8,2022,Denied,799
+2022-08-02,WISCONSIN,31-1011,Caregiver,31,Level III,26936.0,WISCONSIN,High School,8,2022,Denied,799
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1052
+2021-11-23,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1051
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1052
+2021-11-29,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1045
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1052
+2021-11-24,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1050
+2021-11-23,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1051
+2021-11-19,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1055
+2021-11-23,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1051
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1052
+2022-12-01,VIRGINIA,35-2014,Cook,35,Level IV,36005.0,VIRGINIA,Unknown,12,2022,Denied,678
+2022-10-21,VIRGINIA,35-2014.00,Cook Help,35,Level I,27893.0,VIRGINIA,High School,10,2022,Denied,719
+2022-12-01,VIRGINIA,35-2014.00,Cook,35,Level IV,36005.0,VIRGINIA,Unknown,12,2022,Denied,678
+2022-06-30,TEXAS,35-9031,STORE MANAGER,35,Level IV,23358.0,TEXAS,Associate's,6,2022,Denied,832
+2022-11-07,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,702
+2022-11-07,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,702
+2022-11-07,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,702
+2022-11-07,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,702
+2022-11-07,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,702
+2022-11-20,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,11,2022,Denied,689
+2022-11-20,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,11,2022,Denied,689
+2022-11-20,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,11,2022,Denied,689
+2022-11-20,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,11,2022,Denied,689
+2022-11-11,NORTH DAKOTA,49-2092.00,Field Service Technician,49,Level III,23.48,NORTH DAKOTA,Bachelor's,11,2022,Denied,698
+2022-07-19,UTAH,49-3023,Automotive Service Technicians and Mechanics,49,Level I,25605.0,UTAH,High School,7,2022,Denied,813
+2022-06-02,SOUTH CAROLINA,53-1021,Supervisor,53,Level II,45032.0,SOUTH CAROLINA,Unknown,6,2022,Denied,860
+2022-09-05,TEXAS,53-3032,Heavy and TractorTrailer Truck Drivers,53,Level I,33155.0,TEXAS,Unknown,9,2022,Certified,765
+2022-09-23,TEXAS,53-3032,Heavy and TractorTrailer Truck Drivers,53,Level I,33155.0,TEXAS,Unknown,9,2022,Certified,747
+2022-09-28,TEXAS,53-3032,Heavy and TractorTrailer Truck Drivers,53,Level I,33155.0,TEXAS,Unknown,9,2022,Certified,742
+2022-09-28,TEXAS,53-3032,Heavy and TractorTrailer Truck Drivers,53,Level I,33155.0,TEXAS,Unknown,9,2022,Certified,742
+2022-09-22,UTAH,53-3032,TRUCK DRIVER ASSISTAN,53,Unknown,20.0,UTAH,Unknown,9,2022,Denied,748
+2022-10-05,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,10,2022,Denied,735
+2022-10-31,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,10,2022,Denied,709
+2022-10-31,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,10,2022,Denied,709
+2022-09-12,PENNSYLVANIA,13-1161,Marketing Specialist,13,Level I,56576.0,PENNSYLVANIA,Master's,9,2022,Certified,759
+2022-11-07,FLORIDA,15-1243.01,Data Warehousing Specialists,15,Level IV,132829.0,FLORIDA,Master's,11,2022,Certified,703
+2022-09-01,OHIO,47-2111.00,OUTDOOR LIGHTING INSTALLER,47,Level I,37835.0,OHIO,Unknown,9,2022,Certified,770
+2022-09-01,OHIO,47-2111.00,OUTDOOR LIGHTING INSTALLER,47,Level I,37835.0,OHIO,Unknown,9,2022,Certified,770
+2022-09-01,OHIO,47-4091.00,PAVER,47,Level I,26603.0,OHIO,Unknown,9,2022,Certified,770
+2022-09-01,OHIO,47-4091.00,PAVER,47,Level I,26603.0,OHIO,Unknown,9,2022,Certified,770
+2022-12-21,GEORGIA,15-1132,"Software Developers, Applications",15,Level IV,122616.0,GEORGIA,Bachelor's,12,2022,Certified,660
+2023-01-02,TEXAS,15-2031,Operations Research Analysts,15,Level II,68411.0,TEXAS,Master's,1,2023,Certified,648
+2022-11-11,TENNESSEE,17-2112,Industrial Engineers,17,Level I,65666.0,MICHIGAN,Bachelor's,11,2022,Certified,700
+2022-11-11,TENNESSEE,17-2112,Industrial Engineers,17,Level I,65666.0,MICHIGAN,Bachelor's,11,2022,Certified,700
+2022-07-24,WISCONSIN,35-2014,Cook  Chinese Cuisine,35,Level IV,30805.0,WISCONSIN,Unknown,7,2022,Denied,810
+2023-03-09,CALIFORNIA,17-2141,Mechanical Engineers,17,Level I,84490.0,CALIFORNIA,Bachelor's,3,2023,Denied,586
+2021-09-03,ARIZONA,11-9041,Architectural and Engineering Managers,11,Level II,121888.0,ARIZONA,Bachelor's,9,2021,Denied,1139
+2022-01-05,KENTUCKY,11-2021,Marketing Managers,11,Level II,63232.0,KENTUCKY,Bachelor's,1,2022,Denied,1015
+2023-01-10,TEXAS,11-9021.00,Construction Managers,11,Level I,51875.0,TEXAS,Bachelor's,1,2023,Certified,645
+2022-12-10,ARIZONA,13-2031.00,Budget Analysts,13,Level II,59384.0,ARIZONA,Master's,12,2022,Certified,676
+2022-05-16,NEW JERSEY,15-1121,Credit Platform Engineer,15,Level IV,136427.0,NEW JERSEY,Master's,5,2022,Denied,884
+2022-03-17,FLORIDA,15-1133,Senior Software Engineer,15,Level II,81744.0,FLORIDA,Master's,3,2022,Denied,944
+2022-03-17,FLORIDA,15-1199,Quality Assurance Engineer,15,Level II,61547.0,FLORIDA,Master's,3,2022,Denied,944
+2022-12-15,MICHIGAN,15-1211.00,Computer Systems Analysts,15,Level I,74422.0,MICHIGAN,Bachelor's,12,2022,Certified,671
+2022-03-28,FLORIDA,19-3011,Economists,19,Level III,85654.0,FLORIDA,Bachelor's,3,2022,Denied,933
+2023-02-09,CALIFORNIA,27-2022.00,Coaches and Scouts,27,Level I,29950.0,CALIFORNIA,Unknown,2,2023,Certified,615
+2022-12-08,NEW JERSEY,29-2011,Medical and Clinical Laboratory Technologists,29,Level I,46654.0,NEW JERSEY,Bachelor's,12,2022,Certified,678
+2021-12-27,NEW YORK,31-9091,DENTAL ASSISTANT,31,Level I,32469.0,NEW YORK,Unknown,12,2021,Denied,1024
+2021-05-14,FLORIDA FL,35-2013,Italian Specialy Chef,35,Level III,45954.0,FLORIDA,High School,5,2021,Denied,1251
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-03,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1078
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-29,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1052
+2021-11-11,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1070
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2021-11-02,GEORGIA,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,9.51,GEORGIA,Unknown,11,2021,Denied,1079
+2023-02-21,CALIFORNIA,39-9011.01,Childcare Workers,39,Level II,30805.0,CALIFORNIA,High School,2,2023,Certified,603
+2023-01-13,GEORGIA,47-2051,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2023-01-13,GEORGIA,47-2051.00,Cement Masons and Concrete Finishers,47,Level I,28600.0,GEORGIA,Unknown,1,2023,Certified,642
+2022-12-08,MARYLAND,43-9061,Office Clerk,43,Level IV,53456.0,MARYLAND,Unknown,12,2022,Denied,679
+2022-12-01,GEORGIA,47-2044.00,GRANITE COUNTERTOP INSTALLER,47,Level IV,44699.0,GEORGIA,High School,12,2022,Denied,686
+2022-08-04,OHIO,47-4091.00,PAVER,47,Level II,26603.0,OHIO,Unknown,8,2022,Certified,805
+2022-12-07,TEXAS texas,51-3023,Slaughterers and Meat Packers,51,Level III,26624.0,TEXAS,Unknown,12,2022,Certified,680
+2022-07-05,OHIO,15-1132,"Software Developers, Applications",15,Level II,85571.0,OHIO,Master's,7,2022,Certified,836
+2022-07-05,OHIO,15-1132,"Software Developers, Applications",15,Level II,85571.0,OHIO,Master's,7,2022,Certified,836
+2022-07-05,OHIO,15-1132,"Software Developers, Applications",15,Level II,85571.0,OHIO,Master's,7,2022,Certified,836
+2023-02-28,NEW JERSEY,13-1082.00,Project Management Specialists,13,Level II,92290.0,NEW JERSEY,Bachelor's,2,2023,Certified,601
+2023-01-18,CALIFORNIA,15-1132,"Software Developers, Applications",15,Level III,144726.0,CALIFORNIA,Master's,1,2023,Certified,642
+2023-02-27,NEW JERSEY,15-1211.00,Computer Systems Analysts,15,Level III,117042.0,NEW JERSEY,Master's,2,2023,Certified,602
+2023-02-15,NEW JERSEY,15-1211.00,Computer Systems Analysts,15,Level II,95514.0,NEW JERSEY,Bachelor's,2,2023,Certified,614
+2022-09-22,NEW YORK,27-1025.00,Interior Designer,27,Level I,42120.0,NEW YORK,Bachelor's,9,2022,Certified,760
+2023-03-07,MASSACHUSETTS,29-1216.00,General Internal Medicine Physicians,29,Level II,79123.0,MASSACHUSETTS,Other,3,2023,Certified,594
+2023-03-07,MASSACHUSETTS,29-1216.00,General Internal Medicine Physicians,29,Level II,79123.0,MASSACHUSETTS,Other,3,2023,Certified,594
+2022-10-06,KENTUCKY,49-3041,FARM EQUIPMENT MECHANICS AND SERVICE TECHNICIANS,49,Level III,35443.0,KENTUCKY,Unknown,10,2022,Certified,746
+2023-04-20,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,4,2023,Certified,550
+2023-04-20,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,4,2023,Certified,550
+2023-04-20,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,4,2023,Certified,550
+2023-01-11,ARIZONA,53-3032,HEAVY AND TRACTORTRAILER TRUCK DRIVERS,53,Level III,39853.0,ARIZONA,Unknown,1,2023,Certified,649
+2022-11-15,NEW YORK,13-2011,Accountants and Auditors,13,Level IV,131206.0,NEW YORK,Master's,11,2022,Denied,707
+2021-11-04,NEW YORK,15-1121,Computer Systems Analysts,15,Level IV,135866.0,NEW YORK,Bachelor's,11,2021,Withdrawn,1083
+2022-09-01,WASHINGTON,15-1121,Computer Systems Analysts,15,Level II,104021.0,CALIFORNIA,Master's,9,2022,Denied,782
+2022-07-08,NEW YORK,15-1132,Full Stack Software Engineer,15,Level I,75462.0,NEW YORK,Bachelor's,7,2022,Denied,837
+2022-07-16,ILLINOIS,15-1132,"Software Developers, Applications",15,Level IV,125445.0,ILLINOIS,Bachelor's,7,2022,Denied,829
+2022-09-07,MINNESOTA,15-1132,"Software Developers, Applications",15,Level IV,125798.0,MINNESOTA,Master's,9,2022,Denied,776
+2022-10-26,ILLINOIS,15-1132,"Software Developers, Applications",15,Level IV,128315.0,TEXAS,Bachelor's,10,2022,Denied,727
+2022-11-17,MISSOURI,15-1132,Software Developer,15,Level III,85155.0,MISSOURI,Bachelor's,11,2022,Denied,705
+2022-11-17,MISSOURI,15-1132,Software Developer,15,Level III,85155.0,MISSOURI,Bachelor's,11,2022,Denied,705
+2022-10-04,DELAWARE,15-1133,"Software Developers, Systems Software",15,Level III,108493.0,PENNSYLVANIA,Doctorate,10,2022,Denied,749
+2022-11-16,NEW YORK,15-1199,"Computer Occupations, All Other",15,Level IV,89482.0,MICHIGAN,Bachelor's,11,2022,Denied,706
+2022-12-12,CALIFORNIA,15-1252.00,Software Developers,15,Level II,132870.0,CALIFORNIA,Master's,12,2022,Denied,680
+2022-12-12,CALIFORNIA,15-1252.00,Software Developers,15,Level II,132870.0,CALIFORNIA,Master's,12,2022,Denied,680
+2022-07-20,OHIO,17-2031,Biomedical Engineers,17,Level IV,110302.0,CALIFORNIA,Bachelor's,7,2022,Denied,825
+2022-10-04,OHIO,17-2141,Mechanical Engineers,17,Level IV,79789.0,MISSISSIPPI,Bachelor's,10,2022,Denied,749
+2022-09-26,MICHIGAN,17-2199,"Engineers, All Other",17,Level I,61568.0,MICHIGAN,Bachelor's,9,2022,Denied,757
+2022-10-24,MINNESOTA,17-2199,Validation Engineers,17,Level II,91166.0,CALIFORNIA,Master's,10,2022,Denied,729
+2022-10-07,PUERTO RICO,25-1022,Assistant Professor,25,Level II,44320.0,PUERTO RICO,Doctorate,10,2022,Denied,746
+2022-09-13,CALIFORNIA,27-1022,Fashion Designers,27,Level III,99653.0,CALIFORNIA,High School,9,2022,Denied,770
+2022-11-10,FLORIDA Broward,27-2022.00,Baseball Coach,27,Level I,22920.0,FLORIDA,High School,11,2022,Denied,712
+2022-11-07,ILLINOIS,29-1021,"Dentists, General",29,Level I,77730.0,MICHIGAN,Other,11,2022,Denied,715
+2022-09-21,ARKANSAS,29-2011,MEDICAL TECHNOLOGIST,29,Level II,18.89,ARKANSAS,Bachelor's,9,2022,Denied,762
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1065
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1065
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1065
+2022-09-15,UTAH,35-1011,CHEF SUPERVISOR,35,Unknown,20.0,UTAH,High School,9,2022,Denied,768
+2022-11-04,SOUTH CAROLINA,35-1012,"HOSTS AND HOSTESSES, RESTAURANT, LOUNGE, AND COFFEE SHOP",35,Level IV,42890.0,SOUTH CAROLINA,Bachelor's,11,2022,Denied,718
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-03,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,719
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-02,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,720
+2022-11-03,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and House Keepers",37,Level I,24294.0,ILLINOIS,Unknown,11,2022,Denied,719
+2022-10-27,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,726
+2022-11-09,FLORIDA,43-5011.00,CARGO AND FREIGHT AGENT,43,Level I,29848.0,FLORIDA,High School,11,2022,Denied,713
+2023-05-21,INDIANA,51-6021,operations manager,51,Unknown,12.5,INDIANA,Associate's,5,2023,Denied,520
+2022-10-07,SOUTH CAROLINA,53-3032,DUMP TRUCK DRIVER,53,Level I,33301.0,SOUTH CAROLINA,Unknown,10,2022,Denied,746
+2022-09-01,WASHINGTON,,PRINCIPAL,na,Level I,108650.0,WASHINGTON,Master's,9,2022,Denied,782
+2022-09-22,UTAH,,TRUCK DRIVER ASSISTAN,na,Unknown,16.0,UTAH,Unknown,9,2022,Denied,761
+2022-11-10,ILLINOIS,,TRUCK DRIVER,na,Unknown,1600.0,ILLINOIS,Unknown,11,2022,Denied,712
+2022-12-01,FLORIDA,11-3011,ADMINISTRATIVE SERVICES MANAGERS,11,Level IV,116646.0,FLORIDA,Bachelor's,12,2022,Withdrawn,692
+2023-01-18,TENNESSEE,11-1021,General and Operations Managers,11,Level I,58386.0,TENNESSEE,Bachelor's,1,2023,Certified,644
+2023-02-21,LOUISIANA,41-1011.00,Manager,41,Level IV,46176.0,LOUISIANA,Unknown,2,2023,Certified,610
+2023-01-09,FLORIDA,43-9199.00,Assistant Restaurant Manager,43,Level I,27061.0,FLORIDA,High School,1,2023,Certified,653
+2022-10-27,TEXAS,51-3011,BAKERS,51,Level IV,29203.0,TEXAS,High School,10,2022,Certified,727
+2021-11-23,COLORADO,13-2011,ACCOUNTANTS,13,Level III,88650.0,COLORADO,Master's,11,2021,Certified,1067
+2022-12-08,NORTH CAROLINA,13-2054.00,Financial Risk Specialists,13,Level IV,153171.0,NORTH CAROLINA,Master's,12,2022,Certified,687
+2023-03-13,VIRGINIA,15-1133,"Software Developers, Systems Software",15,Level I,77189.0,MARYLAND,Bachelor's,3,2023,Certified,592
+2022-12-19,TEXAS,15-1212.00,Information Security Analysts,15,Level II,109990.0,NEW JERSEY,Bachelor's,12,2022,Certified,676
+2023-01-18,INDIANA,15-1252.00,Software Developers,15,Level II,91603.0,VIRGINIA,Bachelor's,1,2023,Certified,646
+2023-02-02,CALIFORNIA,15-2051.00,Data Scientists,15,Level IV,179878.0,CALIFORNIA,Master's,2,2023,Certified,631
+2023-03-14,CALIFORNIA,17-2071,Electrical Engineers,17,Unknown,110374.0,CALIFORNIA,Master's,3,2023,Certified,591
+2022-12-07,TEXAS,17-2112,Industrial Engineer,17,Level I,89066.0,TEXAS,Bachelor's,12,2022,Certified,688
+2023-01-26,FLORIDA,23-1011.00,Associate Attorney,23,Level I,67974.0,FLORIDA,Other,1,2023,Certified,638
+2022-12-07,FLORIDA,31-9091,Dental Assistants,31,Level I,31782.0,FLORIDA,High School,12,2022,Certified,688
+2022-12-07,FLORIDA,31-9091,Dental Assistants,31,Level I,31782.0,FLORIDA,High School,12,2022,Certified,688
+2023-02-22,FLORIDA,43-4081,"Hotel, Motel, and Resort Desk Clerks",43,Level I,21424.0,FLORIDA,Unknown,2,2023,Certified,611
+2023-03-15,FLORIDA,43-4081,"Hotel, Motel, and Resort Desk Clerks",43,Level I,21424.0,FLORIDA,Unknown,3,2023,Certified,590
+2023-01-11,WASHINGTON,15-1199,Computer Systems EngineersArchitects,15,Level IV,119475.0,WASHINGTON,Master's,1,2023,Certified,656
+2023-01-18,CALIFORNIA,15-1252.00,Software Developers,15,Level I,80122.0,CALIFORNIA,Bachelor's,1,2023,Certified,649
+2023-01-18,DISTRICT OF COLUMBIA,23-1011,Senior Associate International Arbitration,23,Level II,118269.0,FLORIDA,Other,1,2023,Certified,649
+2023-01-27,COLORADO,35-2014,cook,35,Level I,29848.0,COLORADO,Unknown,1,2023,Certified,640
+2022-04-04,NEW HAMPSHIRE,13-1071,Production Team Coordinator,13,Level I,49317.0,MASSACHUSETTS,Unknown,4,2022,Denied,939
+2021-09-28,OHIO,29-1063,"Internists, General",29,Unknown,208000.0,OHIO,Other,9,2021,Denied,1127
+2021-11-01,PENNSYLVANIA Andrew's Lawn and Landscaping,37-1012,Landscape Foreman,37,Level IV,67558.0,PENNSYLVANIA,Unknown,11,2021,Denied,1093
+2019-04-30,TEXAS EL PASO,53-3032,Commercial Truck Driver,53,Level IV,45760.0,TEXAS,High School,4,2019,Denied,2009
+2023-04-11,ILLINOIS,13-2051.00,Financial and Investment Analysts,13,Level IV,161429.0,NEW YORK,Bachelor's,4,2023,Certified,568
+2023-03-20,TEXAS,15-1252.00,Software Developers,15,Level II,98904.0,TEXAS,Master's,3,2023,Certified,590
+2022-11-17,ALABAMA,17-2112,Industrial Engineers,17,Level I,56701.0,ALABAMA,Bachelor's,11,2022,Certified,713
+2023-01-26,TENNESSEE,29-1069,Hematology Oncologist Physician,29,Unknown,208000.0,TENNESSEE,Other,1,2023,Certified,643
+2023-01-23,VIRGINIA,31-1011,Home Health Aide,31,Level I,24378.0,VIRGINIA,Unknown,1,2023,Certified,646
+2023-01-11,FLORIDA,41-9031,Sales Engineers,41,Level III,119933.0,TEXAS,Bachelor's,1,2023,Certified,658
+2023-01-20,NEW YORK,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",43,Level I,44824.0,NEW YORK,Associate's,1,2023,Certified,649
+2023-03-31,GEORGIA,51-3022.00,Poultry Cutter and Trimmer,51,Level I,28142.0,NORTH CAROLINA,Unknown,3,2023,Certified,579
+2022-12-22,ILLINOIS,11-2021,Marketing Managers,11,Unknown,160794.0,NEW YORK,Bachelor's,12,2022,Denied,679
+2023-04-19,NEW JERSEY,11-9199.02,Compliance Managers,11,Level IV,182437.0,NEW JERSEY,Bachelor's,4,2023,Certified,561
+2023-03-02,WASHINGTON,13-1051,Cost Estimators,13,Level IV,119267.0,CALIFORNIA,Master's,3,2023,Certified,609
+2023-01-18,NEW YORK,13-2051,Financial and Investment Analysts,13,Level IV,123698.0,FLORIDA,Bachelor's,1,2023,Certified,652
+2023-04-28,NEW JERSEY,15-1211.00,Computer Systems Analysts,15,Level IV,138590.0,NEW JERSEY,Bachelor's,4,2023,Certified,552
+2023-04-19,NEW JERSEY,15-2051.02,Clinical Data Managers,15,Level IV,153525.0,NEW JERSEY,Master's,4,2023,Certified,561
+2023-04-18,NEW JERSEY,19-1042,"Medical Scientists, Except Epidemiologists",19,Level I,67787.0,NEW JERSEY,Master's,4,2023,Certified,562
+2023-01-06,MASSACHUSETTS,41-2031,Retail Salespersons,41,Level II,32781.0,MASSACHUSETTS,High School,1,2023,Certified,664
+2023-02-16,ILLINOIS,53-3032,Heavy and TractorTrailer Truck Driver,53,Level II,46446.0,ILLINOIS,Unknown,2,2023,Certified,623
+2022-07-12,ILLINOIS,17-2141,Mechanical Engineers,17,Level II,78208.0,ILLINOIS,Master's,7,2022,Withdrawn,843
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,898
+2023-02-02,NEW JERSEY,13-1082.00,Project Management Specialists,13,Level III,116002.0,NEW JERSEY,Master's,2,2023,Certified,641
+2023-03-17,MINNESOTA,13-1082.00,Project Management Specialists,13,Level IV,112528.0,MINNESOTA,Bachelor's,3,2023,Certified,598
+2023-03-02,NEW YORK,13-2011,Accountants and Auditors,13,Level IV,131206.0,NEW YORK,Master's,3,2023,Certified,613
+2023-03-31,MINNESOTA,15-1252.00,Software Developers,15,Level IV,130998.0,MINNESOTA,Bachelor's,3,2023,Certified,584
+2023-03-23,SOUTH CAROLINA,25-2031.00,HIGH SCHOOL SCIENCE TEACHER,25,Level I,37980.0,SOUTH CAROLINA,Bachelor's,3,2023,Certified,592
+2023-04-04,NEW YORK,39-5092,Manicurists and Pedicurists,39,Level I,27498.0,NEW YORK,High School,4,2023,Certified,580
+2023-04-26,ILLINOIS,39-5092,Manicurists and Pedicurists,39,Level I,24232.0,ILLINOIS,High School,4,2023,Certified,558
+2023-04-21,CALIFORNIA,41-1011,FirstLine Supervisors of Retail Sales Workers,41,Level II,47237.0,CALIFORNIA,Associate's,4,2023,Certified,563
+2023-03-12,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,3,2023,Denied,603
+2023-04-28,VIRGINIA,15-1252.00,Software Developers,15,Level IV,157061.0,VIRGINIA,Bachelor's,4,2023,Certified,564
+2023-05-24,NEW JERSEY,15-1252.00,software Developer applications,15,Level I,85197.0,NEW JERSEY,Master's,5,2023,Certified,538
+2023-01-10,CALIFORNIA,23-1011.00,Attorney At Law,23,Level I,94203.0,CALIFORNIA,Other,1,2023,Certified,672
+2023-05-07,VIRGINIA,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53,Level I,25730.0,VIRGINIA,Unknown,5,2023,Certified,555
+2023-05-07,VIRGINIA,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53,Level I,25730.0,VIRGINIA,Unknown,5,2023,Certified,555
+2023-05-08,VIRGINIA,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53,Level I,25730.0,VIRGINIA,Unknown,5,2023,Certified,554
+2023-05-07,VIRGINIA,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53,Level I,25730.0,VIRGINIA,Unknown,5,2023,Certified,555
+2023-05-08,VIRGINIA,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53,Level I,25730.0,VIRGINIA,Unknown,5,2023,Certified,554
+2023-05-08,VIRGINIA,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",53,Level I,25730.0,VIRGINIA,Unknown,5,2023,Certified,554
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,623
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,623
+2023-03-06,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,618
+2023-03-06,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,618
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,623
+2023-03-14,CALIFORNIA,15-2051.00,Data Scientists,15,Level II,130416.0,CALIFORNIA,Master's,3,2023,Certified,610
+2022-09-22,OHIO,47-4091.00,PAVER,47,Level II,26603.0,OHIO,Unknown,9,2022,Certified,783
+2022-09-22,OHIO,47-4091.00,PAVER,47,Level II,26603.0,OHIO,Unknown,9,2022,Certified,783
+2022-09-22,OHIO,47-4091.00,PAVER,47,Level II,26603.0,OHIO,Unknown,9,2022,Certified,783
+2022-11-03,TEXAS,11-3031,Financial Managers,11,Level IV,195312.0,TEXAS,Bachelor's,11,2022,Denied,742
+2022-09-12,FLORIDA,11-3131,Training and Development Managers,11,Level II,94349.0,FLORIDA,Bachelor's,9,2022,Denied,794
+2022-07-29,TEXAS,11-2021,Business Development Specialist,11,Level I,82077.0,TEXAS,Bachelor's,7,2022,Denied,839
+2022-07-27,CALIFORNIA,11-9021,Construction Project Manager,11,Level I,61048.0,FLORIDA,Bachelor's,7,2022,Denied,841
+2022-07-29,TEXAS,11-2021,Marketing Managers,11,Level III,163259.0,TEXAS,Bachelor's,7,2022,Certified,839
+2022-08-29,WASHINGTON,11-3021,Computer and Information Systems Managers,11,Unknown,103290.0,WASHINGTON,Unknown,8,2022,Denied,808
+2022-11-15,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,730
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-15,WASHINGTON,11-2021,Marketing Managers,11,Level II,169790.0,CALIFORNIA,Master's,11,2022,Denied,730
+2022-09-13,FLORIDA,11-1011,Vice President Business Development and Sales,11,Level II,202946.0,FLORIDA,Bachelor's,9,2022,Denied,793
+2022-12-06,CALIFORNIA,11-1021,General and Operations Managers,11,Level II,101712.0,CALIFORNIA,Master's,12,2022,Denied,709
+2023-01-05,NEW YORK,11-2021.00,Marketing Manager,11,Level I,123469.0,NEW YORK,Bachelor's,1,2023,Denied,679
+2022-07-26,CONNECTICUT CT,11-9051.00,Food Service Managers,11,Level III,97614.0,CONNECTICUT,High School,7,2022,Denied,842
+2022-10-28,NEW YORK,13-1111.00,Management Analyst,13,Level II,92248.0,NEW YORK,Master's,10,2022,Denied,748
+2022-11-03,TEXAS,13-1161,MARKET RESEARCH ANALYSTS AND MARKETING SPECIALISTS,13,Level II,66061.0,TEXAS,Bachelor's,11,2022,Denied,742
+2022-08-03,NEW YORK,13-2011,Accountants,13,Level III,105706.0,NEW YORK,Bachelor's,8,2022,Denied,834
+2022-10-05,NEW YORK,13-2011,Staff Accountant,13,Level I,66310.0,NEW YORK,Bachelor's,10,2022,Denied,771
+2022-11-15,CALIFORNIA,13-2011.00,Accountants,13,Level I,52416.0,CALIFORNIA,High School,11,2022,Denied,730
+2022-12-05,NEW YORK,13-2011.00,Accountants and Auditors,13,Level IV,131206.0,NEW YORK,Bachelor's,12,2022,Denied,710
+2022-11-30,NEW YORK New York,13-2099,Financial Quantitative Analysts,13,Level I,70845.0,NEW YORK,Master's,11,2022,Denied,715
+2022-10-06,FLORIDA,15-1121,Computer Systems Analysts,15,Level II,74194.0,FLORIDA,Master's,10,2022,Denied,770
+2022-11-02,FLORIDA,15-1121,Senior Application Specialist,15,Level IV,111862.0,FLORIDA,Bachelor's,11,2022,Denied,743
+2022-11-07,CALIFORNIA,15-1121,Computer Systems Analysts,15,Level III,133973.0,CALIFORNIA,Master's,11,2022,Denied,738
+2022-08-02,CALIFORNIA CALIFORNIA,15-1131,COMPUTER PROGRAMMER,15,Level I,65083.0,CALIFORNIA,Bachelor's,8,2022,Denied,835
+2022-08-02,CALIFORNIA CALIFORNIA,15-1131,COMPUTER PROGRAMMER,15,Level I,65083.0,CALIFORNIA,Bachelor's,8,2022,Denied,835
+2022-11-01,GEORGIA,15-1132,"Software Developers, Applications",15,Level III,100443.0,MISSOURI,Bachelor's,11,2022,Denied,744
+2021-11-05,WASHINGTON,15-1132,"Software Developers, Applications",15,Level I,97760.0,WASHINGTON,Bachelor's,11,2021,Denied,1105
+2022-07-01,WASHINGTON,15-1132,"Software Developers, Applications",15,Level II,119350.0,WASHINGTON,Master's,7,2022,Denied,867
+2022-08-26,ILLINOIS IL,15-1132,"Software Developers, Applications",15,Level I,72883.0,ILLINOIS,Bachelor's,8,2022,Denied,811
+2022-11-04,NEW JERSEY,15-1132,"Software Developers, Applications",15,Level III,123614.0,NEW JERSEY,Master's,11,2022,Denied,741
+2022-11-07,VIRGINIA,15-1132,Pega Senior System Architect,15,Level III,101629.0,VIRGINIA,Master's,11,2022,Denied,738
+2022-11-10,NEW YORK,15-1132,"Software Developers, Applications",15,Level I,61859.0,FLORIDA,Bachelor's,11,2022,Denied,735
+2023-01-02,NEW MEXICO,15-1132,Software Engineer 2,15,Level I,59155.0,NEW MEXICO,Bachelor's,1,2023,Denied,682
+2022-09-08,MASSACHUSETTS,15-1133,Machine Learning Engineer,15,Level I,79955.0,MASSACHUSETTS,Bachelor's,9,2022,Denied,798
+2022-12-02,ILLINOIS,15-1133,Senior Software Engineer,15,Level IV,113838.0,VIRGINIA,Bachelor's,12,2022,Denied,713
+2022-12-12,GEORGIA,15-1133,"Software Developers, Systems Software",15,Level IV,122616.0,GEORGIA,Bachelor's,12,2022,Denied,703
+2022-11-02,OHIO,15-1143,Computer Network Architects,15,Level IV,137218.0,TEXAS,Bachelor's,11,2022,Denied,743
+2022-10-06,NEW JERSEY,15-1199,Software Quality Assurance Engineers and Testers,15,Unknown,102332.0,ILLINOIS,Bachelor's,10,2022,Denied,770
+2022-11-21,RHODE ISLAND,15-1199,"Computer Occupations, All Other",15,Level IV,114234.0,TEXAS,Bachelor's,11,2022,Denied,724
+2023-02-06,TEXAS,15-1199,Computer Systems EngineersArchitects,15,Level IV,114234.0,TEXAS,Bachelor's,2,2023,Certified,647
+2023-01-05,NEW JERSEY,15-1211.00,COMPUTER SYSTEMS ANALYST,15,Level II,95514.0,NEW JERSEY,Master's,1,2023,Denied,679
+2022-12-21,NEW JERSEY,15-1242.00,DATABASE ADMINISTRATOR,15,Level III,119350.0,NEW JERSEY,Master's,12,2022,Denied,694
+2022-12-12,NEW JERSEY,15-1243.00,DATABASE ARCHITECT,15,Level II,115440.0,NEW JERSEY,Master's,12,2022,Denied,703
+2022-12-21,NEW JERSEY,15-1244.00,NETWORK AND COMPUTER SYSTEMS ADMINISTRATORS,15,Level III,110739.0,NEW JERSEY,Master's,12,2022,Denied,694
+2023-01-03,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,1,2023,Denied,681
+2023-01-03,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,1,2023,Denied,681
+2023-01-03,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,1,2023,Denied,681
+2022-11-01,TEXAS,15-1252.00,Software Developers,15,Level I,71718.0,TEXAS,Bachelor's,11,2022,Denied,744
+2023-01-05,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,1,2023,Denied,679
+2022-12-21,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,12,2022,Denied,694
+2022-12-21,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,12,2022,Denied,694
+2022-12-21,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,12,2022,Denied,694
+2022-12-21,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,12,2022,Denied,694
+2023-01-05,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,1,2023,Denied,679
+2023-02-15,NORTH CAROLINA,15-1252.00,Software Developer,15,Level IV,136822.0,GEORGIA,Bachelor's,2,2023,Certified,638
+2023-02-21,NORTH DAKOTA,15-1252.00,Software Developers,15,Level IV,99341.0,NORTH DAKOTA,Master's,2,2023,Certified,632
+2022-07-09,CALIFORNIA,15-2031,Operations Research Analysts,15,Level I,70803.0,CALIFORNIA,Master's,7,2022,Denied,859
+2022-08-08,NORTH CAROLINA,15-2041.00,Principal Statistical Programmer,15,Level III,112861.0,NORTH CAROLINA,Bachelor's,8,2022,Denied,829
+2022-12-07,NEW JERSEY,17-2051,Civil Engineers,17,Level IV,120266.0,TEXAS,Bachelor's,12,2022,Denied,708
+2022-11-18,WASHINGTON,17-2061,Computer Hardware Engineers,17,Level III,179566.0,CALIFORNIA,Master's,11,2022,Denied,727
+2022-11-18,WASHINGTON,17-2061,Computer Hardware Engineers,17,Level III,179566.0,CALIFORNIA,Master's,11,2022,Denied,727
+2021-12-01,PENNSYLVANIA,17-2071,Electrical Engineers,17,Level I,68432.0,PENNSYLVANIA,Bachelor's,12,2021,Denied,1079
+2022-07-13,MASSACHUSETTS,17-2071,Electrical Engineers,17,Level IV,119662.0,MASSACHUSETTS,Master's,7,2022,Denied,855
+2022-07-28,CALIFORNIA,17-2141,Mechanical Engineers,17,Level IV,125632.0,TEXAS,Bachelor's,7,2022,Denied,840
+2022-12-20,OREGON,21-1091,Health Education Specialist,21,Level III,71282.0,OREGON,Bachelor's,12,2022,Denied,695
+2022-07-25,OHIO,25-1032,"Engineering Teachers, Postsecondary",25,Level I,61890.0,OHIO,Bachelor's,7,2022,Denied,843
+2022-07-24,NEW YORK,25-2011,Preschool Teacher,25,Level IV,56576.0,NEW YORK,Bachelor's,7,2022,Denied,844
+2022-12-07,MASSACHUSETTS,25-2011,Preschool Teacher,25,Level II,36733.0,MASSACHUSETTS,High School,12,2022,Denied,708
+2022-11-30,CALIFORNIA ORANGE COUNTY,25-2021,School Teacher,25,Level IV,104230.0,CALIFORNIA,Bachelor's,11,2022,Denied,715
+2022-12-15,DISTRICT OF COLUMBIA,25-2021.00,"Elementary School Teacher, Except Special Education",25,Level II,68993.0,DISTRICT OF COLUMBIA,Bachelor's,12,2022,Denied,700
+2022-07-17,NEW YORK,27-1024.00,Senior Designer,27,Level III,70387.0,NEW YORK,Bachelor's,7,2022,Denied,851
+2022-11-23,NEW YORK New York,27-1025.00,Marketing Manager,27,Unknown,18.0,NEW YORK,Bachelor's,11,2022,Denied,722
+2022-08-11,GEORGIA,29-1131,Veterinarians,29,Level I,68640.0,GEORGIA,Master's,8,2022,Denied,826
+2022-08-09,ILLINOIS,31-1011,CAREGIVER,31,Level II,12.82,ILLINOIS,High School,8,2022,Denied,828
+2022-08-09,ILLINOIS,31-1011,CAREGIVER,31,Level II,12.82,ILLINOIS,High School,8,2022,Denied,828
+2022-08-10,ILLINOIS,31-1011,CAREGIVER,31,Level II,12.82,ILLINOIS,High School,8,2022,Denied,827
+2022-08-10,ILLINOIS,31-1011,CAREGIVER,31,Level II,12.82,ILLINOIS,High School,8,2022,Denied,827
+2022-08-11,ILLINOIS,31-1011,CAREGIVER,31,Level II,12.82,ILLINOIS,High School,8,2022,Denied,826
+2022-08-11,ILLINOIS,31-1011,CAREGIVER,31,Level II,12.82,ILLINOIS,High School,8,2022,Denied,826
+2021-11-22,VIRGINIA,31-1014,Nursing  Assistants,31,Level I,27643.0,VIRGINIA,Unknown,11,2021,Denied,1088
+2023-03-06,NEW YORK,31-1122.00,Home Health Aids,31,Level II,31054.0,NEW YORK,Unknown,3,2023,Certified,619
+2022-08-22,HAWAII,35-1011,Chefs and Head Cooks,35,Level II,74360.0,HAWAII,Unknown,8,2022,Denied,815
+2022-09-29, TELANGANA,35-1011,CHEF,35,Unknown,20.0,UTAH,Unknown,9,2022,Denied,777
+2022-09-09,NEVADA,35-1011.00,CHEFS AND HEAD COOKS,35,Level III,58032.0,NEVADA,Bachelor's,9,2022,Denied,797
+2022-10-21,FLORIDA,35-1011.00,Chefs and Head Cooks,35,Level IV,64085.0,FLORIDA,Unknown,10,2022,Denied,755
+2022-11-02,MASSACHUSETTS,35-2014,Sous ChefLine Cook,35,Unknown,20.0,MASSACHUSETTS,Unknown,11,2022,Denied,743
+2022-11-02,MASSACHUSETTS,35-2014,Sous ChefLine Cook,35,Unknown,20.0,MASSACHUSETTS,Unknown,11,2022,Denied,743
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,763
+2022-10-13,MISSOURI,37-3011,Landscape Laborer,37,Level I,25085.0,MISSOURI,Unknown,10,2022,Denied,763
+2022-07-27,PENNSYLVANIA,39-5092,Manicurist,39,Level II,20165.0,PENNSYLVANIA,Unknown,7,2022,Denied,841
+2022-08-01,MARYLAND,39-9021,PERSONAL CARE AIDES,39,Unknown,14.17,MARYLAND,High School,8,2022,Denied,836
+2022-09-16,PENNSYLVANIA,41-2031,RETAIL SALESPERSON,41,Level IV,30306.0,PENNSYLVANIA,Associate's,9,2022,Denied,790
+2022-11-08,TENNESSEE,41-2031,retail salesperson,41,Level II,1800.0,TENNESSEE,Unknown,11,2022,Denied,737
+2022-07-19,MASSACHUSETTS,43-1011,Office Supervisor,43,Level IV,83013.0,MASSACHUSETTS,Bachelor's,7,2022,Denied,849
+2022-09-14,FLORIDA,43-1011,Office Supervisor,43,Level I,39187.0,FLORIDA,Bachelor's,9,2022,Denied,792
+2022-09-28,FLORIDA,43-5011,Cargo and Freight Agents,43,Level IV,51210.0,FLORIDA,Unknown,9,2022,Denied,778
+2022-11-03,FLORIDA,43-5061.00,PRODUCTION ASSISTANT,43,Level III,43035.0,FLORIDA,High School,11,2022,Denied,742
+2022-10-06,FLORIDA,43-6012,Legal Secretary,43,Level I,32115.0,FLORIDA,High School,10,2022,Denied,770
+2022-07-15,CALIFORNIA,43-9061,Office Clerk,43,Level I,28891.0,CALIFORNIA,Unknown,7,2022,Denied,853
+2022-09-01,OHIO,47-2022.00,STONEMASON,47,Level I,34965.0,OHIO,Unknown,9,2022,Denied,805
+2022-09-01,OHIO,47-2022.00,STONEMASON,47,Level I,34965.0,OHIO,Unknown,9,2022,Denied,805
+2022-09-14,OKLAHOMA,49-3031,Diesel Mechanic,49,Level III,43867.0,TEXAS,High School,9,2022,Denied,792
+2022-09-01,OHIO,49-3041.00,IRRIGATION SYSTEMS TECHNICIAN,49,Level I,35630.0,OHIO,Unknown,9,2022,Denied,805
+2022-09-01,OHIO,49-3041.00,IRRIGATION SYSTEMS TECHNICIAN,49,Level I,35630.0,OHIO,Unknown,9,2022,Denied,805
+2022-11-09,TEXAS,49-9043,Maintenance Worker,49,Unknown,25.75,TEXAS,High School,11,2022,Denied,736
+2022-07-18,TEXAS bagdad oriental rugs and carpet,49-9093,CARPET REPAIRMANN,49,Level III,53622.0,TEXAS,Unknown,7,2022,Denied,850
+2022-07-07,FLORIDA,51-1011,FirstLine Supervisors of Production and Operating Workers,51,Level IV,86258.0,CALIFORNIA,High School,7,2022,Denied,861
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,728
+2022-12-12,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,12,2022,Denied,703
+2022-12-13,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,12,2022,Denied,702
+2023-05-04,GEORGIA,11-3031,Financial Managers,11,Level IV,189613.0,GEORGIA,Bachelor's,5,2023,Certified,561
+2023-03-07,OHIO,11-2022,Sales Managers,11,Level IV,187387.0,OHIO,Bachelor's,3,2023,Certified,619
+2023-04-17,CALIFORNIA,13-2011,Accountants and Auditors,13,Level IV,106974.0,CALIFORNIA,Bachelor's,4,2023,Certified,578
+2023-04-17,CALIFORNIA,13-2011,Accountants and Auditors,13,Level III,89544.0,CALIFORNIA,Master's,4,2023,Certified,578
+2023-05-23,CALIFORNIA,13-2011,Accountants and Auditors,13,Level III,89544.0,CALIFORNIA,Bachelor's,5,2023,Certified,542
+2023-02-01,PENNSYLVANIA,15-1211.00,COMPUTER SYSTEMS ANALYSTS,15,Level IV,122262.0,PENNSYLVANIA,Bachelor's,2,2023,Certified,653
+2023-05-30,CALIFORNIA,15-1232.00,Computer User Support Specialists,15,Level III,50024.0,FLORIDA,Bachelor's,5,2023,Certified,535
+2023-03-08,NEW YORK,15-2031,Operations Research Analysts,15,Level IV,141378.0,NEW YORK,Bachelor's,3,2023,Certified,618
+2023-05-06,TEXAS,15-2031,Operations Research Analysts,15,Level III,95618.0,TEXAS,Bachelor's,5,2023,Certified,559
+2023-03-10,VIRGINIA,15-2041.00,Statisticians,15,Level I,78042.0,VIRGINIA,Bachelor's,3,2023,Certified,616
+2023-03-03,WASHINGTON,23-1011,Lawyers,23,Level IV,131373.0,WASHINGTON,Master's,3,2023,Certified,623
+2023-05-05,SOUTH CAROLINA,25-2031,"Secondary School Teachers, Except Special and CareerTechnical Education",25,Level I,38430.0,SOUTH CAROLINA,Bachelor's,5,2023,Certified,560
+2023-05-08,GEORGIA,27-1024,Graphic Designers,27,Level IV,72030.0,GEORGIA,Master's,5,2023,Certified,557
+2023-04-20,CALIFORNIA,31-9092.00,Medical Assistants,31,Level III,54870.0,CALIFORNIA,Other,4,2023,Certified,575
+2023-03-09,NEW MEXICO,35-1011,Chefs and Head Cooks,35,Level IV,64646.0,NEW MEXICO,Other,3,2023,Certified,617
+2023-03-31,TEXAS,39-9011,Childcare Worker,39,Level IV,26749.0,TEXAS,Unknown,3,2023,Certified,595
+2023-05-25,FLORIDA,43-6011,Executive Secretaries and Executive Administrative Assistants,43,Level I,23837.0,FLORIDA,Unknown,5,2023,Certified,540
+2023-05-30,NEW YORK MARTIN MIEDZOWICZ CORP,43-9061,"Office Clerks, General",43,Level II,36629.0,NEW YORK,Unknown,5,2023,Certified,535
+2023-05-01,TEXAS,49-1011,"FirstLine Supervisors of Mechanics, Installers, and Repairers",49,Level IV,85093.0,TEXAS,Unknown,5,2023,Certified,564
+2023-04-11,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,4,2023,Certified,584
+2023-02-13,MARYLAND,11-3021,Computer and Information Systems Managers,11,Unknown,168590.0,MARYLAND,Bachelor's,2,2023,Certified,644
+2023-02-15,NEW JERSEY,13-1082.00,Project Management Specialists,13,Level II,92290.0,NEW JERSEY,Bachelor's,2,2023,Certified,642
+2022-11-04,CALIFORNIA,15-1121,Computer Systems Analysts,15,Level IV,157851.0,CALIFORNIA,Bachelor's,11,2022,Certified,745
+2023-03-14,GEORGIA,15-1121,Computer Systems Analysts,15,Level II,84781.0,GEORGIA,Bachelor's,3,2023,Certified,615
+2023-02-03,MASSACHUSETTS,15-1252.00,Software Developers,15,Level IV,157477.0,NEW JERSEY,Bachelor's,2,2023,Certified,654
+2023-02-13,NEW JERSEY,15-1252.00,Software Developers,15,Level IV,157477.0,NEW JERSEY,Master's,2,2023,Certified,644
+2023-03-14,GEORGIA,15-1252.00,Software Developers,15,Level IV,136822.0,GEORGIA,Bachelor's,3,2023,Certified,615
+2023-03-08,GEORGIA,15-1252.00,Software Developers,15,Level IV,136822.0,GEORGIA,Bachelor's,3,2023,Certified,621
+2023-03-08,GEORGIA,15-1252.00,Software Developers,15,Level I,80101.0,GEORGIA,Bachelor's,3,2023,Certified,621
+2023-03-10,GEORGIA,15-1252.00,Software Developers,15,Level IV,136822.0,GEORGIA,Bachelor's,3,2023,Certified,619
+2023-02-17,MICHIGAN Amigo Mobility,17-2071,Electrical Engineer,17,Level I,53227.0,MICHIGAN,Bachelor's,2,2023,Certified,640
+2023-05-08,PENNSYLVANIA,21-1091,Health Education Specialists,21,Level II,54330.0,PENNSYLVANIA,Master's,5,2023,Certified,560
+2023-03-07,MASSACHUSETTS,29-1216.00,General Internal Medicine Physicians,29,Level II,79123.0,MASSACHUSETTS,Other,3,2023,Certified,622
+2022-09-22,FLORIDA,39-9011.01,Nanny,39,Level III,25563.0,FLORIDA,High School,9,2022,Denied,788
+2023-03-31,NEW JERSEY,11-3031,Financial Managers,11,Level II,168854.0,NEW YORK,Master's,3,2023,Certified,599
+2023-01-10,FLORIDA,11-3021,Computer and Information Systems Managers,11,Level IV,179192.0,FLORIDA,High School,1,2023,Certified,679
+2023-04-19,NEW YORK,15-1211.00,Computer Systems Analysts,15,Level III,117042.0,NEW JERSEY,Master's,4,2023,Certified,580
+2023-01-18,NEW JERSEY,15-1242.00,Database Administrators,15,Level IV,144186.0,NEW JERSEY,Master's,1,2023,Certified,671
+2022-10-03,CALIFORNIA,17-1011,"Architects, Except Landscape and Naval",17,Level II,72571.0,CALIFORNIA,Master's,10,2022,Certified,778
+2023-02-21,PENNSYLVANIA,17-2071,Electrical Engineers,17,Level I,55307.0,FLORIDA,Bachelor's,2,2023,Certified,637
+2023-04-04,OKLAHOMA,19-2031,Chemists,19,Level I,46197.0,OKLAHOMA,Bachelor's,4,2023,Certified,595
+2023-02-27,MINNESOTA,21-2011,Clergy,21,Level II,43618.0,MINNESOTA,Bachelor's,2,2023,Certified,631
+2023-02-27,TENNESSEE,29-1229.02,Hospitalists,29,Unknown,66518.0,GEORGIA,Other,2,2023,Certified,631
+2023-02-27,TENNESSEE,29-1229.02,Hospitalists,29,Unknown,66518.0,GEORGIA,Other,2,2023,Certified,631
+2023-01-11,NEW YORK,35-2015,"Cooks, Short Order",35,Level I,27331.0,NEW YORK,High School,1,2023,Certified,678
+2023-05-30,ILLINOIS A2V LOGISTICS INC,11-3071,"Transportation, Storage, and Distribution Managers",11,Level IV,135262.0,ILLINOIS,Bachelor's,5,2023,Certified,540
+2023-05-29,ILLINOIS,15-1211.00,Computer Systems Analysts,15,Level IV,138590.0,NEW YORK,Bachelor's,5,2023,Certified,541
+2023-04-19,NEW YORK,15-1252.00,Software Developers,15,Level IV,157477.0,NEW YORK,Bachelor's,4,2023,Certified,581
+2023-04-19,NEW YORK,15-2031,Operations Research Analysts,15,Level II,80413.0,NEW JERSEY,Master's,4,2023,Certified,581
+2023-03-09,MASSACHUSETTS,29-1021.00,"Dentist, General",29,Level II,162510.0,CONNECTICUT,Other,3,2023,Certified,622
+2023-04-15,CALIFORNIA,31-1011,CAREGIVER,31,Level II,15.04,CALIFORNIA,High School,4,2023,Certified,585
+2023-04-07,WASHINGTON,31-1122.00,Health Care Aide,31,Unknown,18.0,WASHINGTON,High School,4,2023,Denied,593
+2023-02-06,NEW YORK,35-1011,Chefs and Head Cooks,35,Level III,72384.0,NEW YORK,Unknown,2,2023,Certified,653
+2023-05-04,MARYLAND,41-1011.00,Manager,41,Level III,54829.0,MARYLAND,High School,5,2023,Certified,566
+2022-09-22,CALIFORNIA,11-2022,"Vice President, Strategic Accounts",11,Level IV,151819.0,CALIFORNIA,Master's,9,2022,Denied,795
+2022-11-09,TEXAS,11-1021,General and Operations Managers,11,Level IV,108160.0,TEXAS,Unknown,11,2022,Denied,747
+2022-08-26,FLORIDA,11-2011.00,Marketing and Promotions Manager,11,Level I,65645.0,FLORIDA,Unknown,8,2022,Denied,822
+2022-08-30,ARKANSAS,11-9051.00,Kitchen Manager,11,Level III,47798.0,ARKANSAS,Unknown,8,2022,Denied,818
+2022-07-06,TEXAS,13-1071.00,Senior Recruiter,13,Level IV,84178.0,TEXAS,Unknown,7,2022,Denied,873
+2023-02-03,CALIFORNIA,13-1082.00,Project Management Specialists,13,Level I,75837.0,CALIFORNIA,Bachelor's,2,2023,Certified,661
+2022-12-23,VIRGINIA,15-1121,Computer Systems Analysts,15,Level II,94723.0,VIRGINIA,Bachelor's,12,2022,Denied,703
+2022-11-14,MASSACHUSETTS,15-1132,"Software Developers, Applications",15,Level III,117686.0,MASSACHUSETTS,Bachelor's,11,2022,Denied,742
+2022-11-22,NEW JERSEY,15-1132,"SOFTWARE DEVELOPERS, APPLICATIONS",15,Level II,109283.0,NEW JERSEY,Bachelor's,11,2022,Denied,734
+2022-11-07,UTAH,15-1133,"Software Developer, Systems Software",15,Level IV,167710.0,CALIFORNIA,Bachelor's,11,2022,Denied,749
+2023-02-27,NEVADA,15-1244.00,Network and Computer Systems Administrators,15,Level IV,116688.0,GEORGIA,Bachelor's,2,2023,Certified,637
+2022-08-16,CALIFORNIA CA,15-1252.00,System Software Engineer  Device Driver,15,Level IV,192941.0,CALIFORNIA,Bachelor's,8,2022,Denied,832
+2022-12-12,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,12,2022,Denied,714
+2022-12-12,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,12,2022,Denied,714
+2022-12-18,CALIFORNIA,15-1252.00,Software Developers,15,Level II,132870.0,CALIFORNIA,Master's,12,2022,Denied,708
+2023-01-09,TEXAS,15-1252.00,Software Developers,15,Level I,80850.0,TEXAS,Bachelor's,1,2023,Denied,686
+2023-01-09,TEXAS,15-1252.00,Software Developers,15,Level II,98904.0,TEXAS,Master's,1,2023,Denied,686
+2023-02-13,VIRGINIA,15-1252.00,Software Developers,15,Level IV,157061.0,VIRGINIA,Bachelor's,2,2023,Certified,651
+2023-01-10,TEXAS,15-2051.01,Business Analyst,15,Level II,97739.0,TEXAS,Master's,1,2023,Denied,685
+2022-10-27,TEXAS,17-2051,Civil Engineers,17,Level IV,125278.0,TEXAS,Unknown,10,2022,Denied,760
+2022-07-29,ILLINOIS,17-2199.09,NANOSYSTEMS ENGINEERS,17,Level I,58531.0,ILLINOIS,Master's,7,2022,Denied,850
+2023-03-21,TEXAS,17-3011,Architectural and Civil Drafters,17,Level IV,70346.0,TEXAS,Master's,3,2023,Certified,615
+2022-12-21,FLORIDA,23-1011,Lawyers,23,Level III,137966.0,FLORIDA,Other,12,2022,Denied,705
+2023-03-01,NEW YORK,23-1011,Lawyers,23,Level III,183435.0,NEW YORK,Other,3,2023,Certified,635
+2023-05-23,FLORIDA,23-1011.00,Lawyers,23,Level II,9547200.0,FLORIDA,Other,5,2023,Certified,552
+2022-08-15,NEW JERSEY,31-9092.00,Clinical Medical Assistant,31,Level IV,43867.0,NEW JERSEY,Associate's,8,2022,Denied,833
+2022-10-11,OREGON,35-2014,"cooks, Restaurant",35,Level IV,34008.0,OREGON,Unknown,10,2022,Denied,776
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,922
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,922
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,922
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,922
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,922
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,922
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,921
+2022-03-11,FLORIDA,43-6011,Executive Administrative Assistant,43,Level II,49379.0,FLORIDA,High School,3,2022,Denied,990
+2022-08-29,FLORIDA,43-9061,OFFICE CLERK,43,Level I,22942.0,FLORIDA,High School,8,2022,Denied,819
+2022-07-28,LOUISIANA,45-2091,Farm Truck Driver,45,Level IV,27498.0,LOUISIANA,Unknown,7,2022,Denied,851
+2022-09-10,VIRGINIA,49-9064,Watch Repairers,49,Level IV,54392.0,VIRGINIA,Unknown,9,2022,Denied,807
+2023-03-12,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,3,2023,Certified,624
+2023-03-12,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,3,2023,Certified,624
+2023-03-12,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,3,2023,Certified,624
+2023-03-12,PENNSYLVANIA CLEMENS FOOD GROUP LLC,51-3023.00,Packers,51,Level I,35880.0,MICHIGAN,Unknown,3,2023,Certified,624
+2022-12-01,TEXAS,,Unknown,na,Unknown,,TEXAS,High School,12,2022,Denied,725
+2023-03-07,CALIFORNIA,11-9041,Architectural and Engineering Managers,11,Level II,146682.0,CALIFORNIA,Bachelor's,3,2023,Certified,630
+2023-03-17,CALIFORNIA,13-1021.00,Buyer,13,Level I,46675.0,CALIFORNIA,Unknown,3,2023,Certified,620
+2023-03-09,NEW YORK,13-1082.00,Project Management Specialists,13,Level IV,139693.0,NEW YORK,Bachelor's,3,2023,Certified,628
+2023-05-09,NEW JERSEY,13-2011,Accountants and Auditors,13,Level IV,127442.0,CALIFORNIA,Bachelor's,5,2023,Certified,567
+2023-03-03,MASSACHUSETTS,15-1121,Computer Systems Analysts,15,Level IV,157851.0,CALIFORNIA,Bachelor's,3,2023,Certified,634
+2023-02-16,WISCONSIN,15-1132,Software Developers Applications,15,Level IV,111405.0,WISCONSIN,Doctorate,2,2023,Certified,649
+2023-05-02,NEW YORK,15-1211.00,Computer Systems Analyst,15,Level II,81515.0,NEW YORK,Other,5,2023,Certified,574
+2023-03-14,COLORADO,15-2051.00,Data Scientists,15,Level II,85280.0,MASSACHUSETTS,Master's,3,2023,Certified,623
+2023-04-28,TEXAS,17-2072,"Electronics Engineers, Except Computer",17,Level III,129563.0,TEXAS,Master's,4,2023,Certified,578
+2023-03-01,NEW JERSEY,31-1131.00,NURSING ASSISTANT,31,Level I,33738.0,NEW JERSEY,High School,3,2023,Certified,636
+2023-03-09,MARYLAND,35-2013.00,"Cooks, Private Household",35,Unknown,18.76,MARYLAND,High School,3,2023,Certified,628
+2022-05-05,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,936
+2022-05-05,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,936
+2022-05-13,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,928
+2022-05-13,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,928
+2022-05-13,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,928
+2022-05-13,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,928
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,926
+2022-05-17,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,924
+2022-05-17,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,924
+2022-05-18,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,923
+2022-05-19,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,922
+2022-05-19,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,922
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,914
+2023-04-12,TEXAS,37-3011,Landscape Laborer,37,Level I,26874.0,TEXAS,Unknown,4,2023,Certified,594
+2023-02-23,TENNESSEE,19-1042,"Medical Scientists, Except Epidemiologists",19,Level II,60445.0,TENNESSEE,Other,2,2023,Certified,643
+2023-03-08,CALIFORNIA,27-3031,Public Relations Specialists,27,Level IV,98155.0,CALIFORNIA,Bachelor's,3,2023,Certified,630
+2022-05-15,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,927
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-05-27,TEXAS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,15.11,WASHINGTON,Unknown,5,2022,Withdrawn,915
+2022-06-03,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,908
+2022-06-09,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,902
+2022-06-02,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,909
+2022-06-07,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,904
+2022-06-02,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,909
+2022-06-02,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,909
+2022-06-03,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,908
+2022-06-07,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,904
+2022-06-07,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,904
+2022-06-08,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,903
+2022-06-29,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,882
+2022-06-08,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,903
+2022-06-17,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,894
+2022-06-08,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,903
+2022-06-09,ARIZONA,39-9021,Personal Care Aides,39,Level I,26624.0,ARIZONA,Unknown,6,2022,Denied,902
+2023-05-04,TEXAS,13-2011,Accountants and Auditors,13,Level IV,110157.0,TEXAS,Bachelor's,5,2023,Certified,575
+2023-03-09,TEXAS,13-2051.00,Financial and Investment Analysts,13,Level IV,145038.0,CALIFORNIA,Bachelor's,3,2023,Certified,631
+2023-03-09,NEW YORK,15-1252.00,Software Developers,15,Level IV,157477.0,NEW YORK,Bachelor's,3,2023,Certified,631
+2023-03-06,GEORGIA,15-1252.00,Application Programmer,15,Level II,73008.0,GEORGIA,Master's,3,2023,Certified,634
+2023-04-21,MARYLAND,15-1252.00,Software Developers,15,Level II,110240.0,MARYLAND,Master's,4,2023,Certified,588
+2023-04-21,MARYLAND,15-1252.00,Software Developers,15,Level II,110240.0,MARYLAND,Master's,4,2023,Certified,588
+2023-04-21,MARYLAND,15-1252.00,Software Developers,15,Level II,110240.0,MARYLAND,Master's,4,2023,Certified,588
+2023-04-21,MARYLAND,15-1252.00,Software Developers,15,Level II,110240.0,MARYLAND,Master's,4,2023,Certified,588
+2023-04-17,KANSAS,17-2051,Civil Engineers,17,Level I,63752.0,TEXAS,Bachelor's,4,2023,Certified,592
+2023-02-06,CALIFORNIA,17-2141,Mechanical Engineers,17,Level I,70221.0,CALIFORNIA,Bachelor's,2,2023,Certified,662
+2023-04-13,NEW YORK,29-2011,MEDICAL TECHNOLOGIST,29,Level I,47819.0,NEW YORK,Bachelor's,4,2023,Certified,596
+2023-03-06,TEXAS,41-1011.00,FirstLine Supervisors of Retail Sales Workers,41,Level IV,58469.0,TEXAS,High School,3,2023,Certified,634
+2023-05-18,PENNSYLVANIA,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35,Level I,21861.0,PENNSYLVANIA,Unknown,5,2023,Certified,564
+2023-05-18,PENNSYLVANIA,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35,Level I,21861.0,PENNSYLVANIA,Unknown,5,2023,Certified,564
+2023-05-18,PENNSYLVANIA,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35,Level I,21861.0,PENNSYLVANIA,Unknown,5,2023,Certified,564
+2023-01-13,FLORIDA,11-3071,"Transportation, Storage, and Distribution Managers",11,Level I,58427.0,FLORIDA,Bachelor's,1,2023,Denied,690
+2022-07-06,CONNECTICUT,11-2021,Marketing Managers,11,Level IV,168022.0,FLORIDA,Bachelor's,7,2022,Denied,881
+2022-03-23,CALIFORNIA CA,11-1011,CEO,11,Unknown,100.0,CALIFORNIA,Master's,3,2022,Denied,986
+2022-11-22,FLORIDA,11-1021,General and operations manager,11,Unknown,45000.0,FLORIDA,Associate's,11,2022,Denied,742
+2022-08-22,TEXAS,13-1161,Market Research Analyst,13,Level II,40227.0,TEXAS,Master's,8,2022,Denied,834
+2022-07-14,NEW YORK,13-2011,Accountant,13,Level I,64584.0,NEW YORK,Bachelor's,7,2022,Denied,873
+2022-11-07,CALIFORNIA,15-1121,Computer Systems Analysts,15,Level III,133973.0,CALIFORNIA,Master's,11,2022,Denied,757
+2022-08-15,NEW YORK NEW YORK,15-1142,Network Administrator,15,Level II,87859.0,NEW YORK,Bachelor's,8,2022,Denied,841
+2023-01-10,WASHINGTON,15-1142,Network and Computer Systems Administrators,15,Level II,77022.0,TEXAS,Bachelor's,1,2023,Denied,693
+2023-01-09,COLORADO Enavate Inc,15-1199,Database Architect Senior Product AnalystProfessional,15,Level IV,90563.0,WYOMING,Bachelor's,1,2023,Denied,694
+2023-02-03,WASHINGTON,15-1199,"Computer Occupations, All Other",15,Level IV,118893.0,NEW JERSEY,Master's,2,2023,Denied,669
+2022-11-07,CALIFORNIA,15-1252.00,Software Developers,15,Level III,167149.0,CALIFORNIA,Bachelor's,11,2022,Denied,757
+2022-12-21,PENNSYLVANIA,15-1252.00,Software Developers,15,Level IV,130062.0,FLORIDA,Master's,12,2022,Denied,713
+2023-01-09,TEXAS,15-1252.00,Software Developers,15,Level I,80850.0,TEXAS,Bachelor's,1,2023,Denied,694
+2023-01-11,NEW JERSEY HUDSON,15-1252.00,Software Developers,15,Level IV,157477.0,NEW JERSEY,Master's,1,2023,Denied,692
+2023-02-14,TEXAS,15-1252.00,Software Developers,15,Level I,80850.0,TEXAS,Bachelor's,2,2023,Denied,658
+2023-03-30,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,3,2023,Denied,614
+2022-11-17,TEXAS,15-1253.00,Software Quality Assurance Analyst and Testers,15,Level I,57470.0,TEXAS,Bachelor's,11,2022,Denied,747
+2023-05-22,PENNSYLVANIA,15-1253.00,Software Quality Assurance Analysts and Testers,15,Level IV,108555.0,PENNSYLVANIA,Bachelor's,5,2023,Certified,561
+2023-05-10,VIRGINIA,15-2051.01,Business Intelligence Analysts,15,Level II,84510.0,NEW HAMPSHIRE,Bachelor's,5,2023,Certified,573
+2022-08-16,CONNECTICUT,17-1011,"architects, except landscape and naval",17,Level I,67330.0,CONNECTICUT,Bachelor's,8,2022,Denied,840
+2023-04-27,NORTHERN MARIANA ISLANDS,17-2141.00,MECHANICAL ENGINEER,17,Unknown,24.97,NORTHERN MARIANA ISLANDS,Bachelor's,4,2023,Certified,586
+2022-11-30,TEXAS,19-1029.04,Biologist,19,Level I,61568.0,NORTH CAROLINA,Master's,11,2022,Denied,734
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,672
+2022-09-07,TEXAS,25-3099.00,Curriculum Specialist Bilingual Teacher,25,Level III,61797.0,TEXAS,Bachelor's,9,2022,Denied,818
+2023-01-28,NEW JERSEY,25-9031.00,Instructional Coordinator,25,Level I,45718.0,NEW JERSEY,Master's,1,2023,Denied,675
+2022-12-14,TENNESSEE,29-2011.00,Medical Technologist,29,Level I,27186.0,ALABAMA,Bachelor's,12,2022,Denied,720
+2023-05-04,MARYLAND,31-1122.00,PERSONAL CARE AIDE,31,Level I,25293.0,MARYLAND,Other,5,2023,Certified,579
+2023-05-11,MARYLAND,31-1122.00,PERSONAL CARE AIDE,31,Level I,25293.0,MARYLAND,Other,5,2023,Certified,572
+2023-05-11,MARYLAND,31-1122.00,PERSONAL CARE AIDE,31,Level I,25293.0,MARYLAND,Other,5,2023,Certified,572
+2023-04-12,CALIFORNIA,31-1131.00,Caregivers,31,Level I,31990.0,CALIFORNIA,Unknown,4,2023,Certified,601
+2023-04-12,CALIFORNIA,31-1131.00,Caregivers,31,Level I,31990.0,CALIFORNIA,Unknown,4,2023,Certified,601
+2022-12-07,UTAH,35-1011.00,Chef and Head Cook,35,Level I,21382.0,UTAH,High School,12,2022,Denied,727
+2023-02-17,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level I,23296.0,FLORIDA,Unknown,2,2023,Denied,655
+2023-02-17,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level I,21674.0,FLORIDA,Unknown,2,2023,Denied,655
+2022-09-06,TEXAS,35-2019.00,Mithai Cook,35,Unknown,30160.0,TEXAS,Unknown,9,2022,Denied,819
+2023-02-01,FLORIDA,35-2021,Food Preparation Workers,35,Level I,20301.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-04,FLORIDA,35-2021,Food Preparation Workers,35,Level I,20301.0,FLORIDA,Unknown,2,2023,Denied,668
+2023-02-04,FLORIDA,35-2021,Food Preparation Workers,35,Level I,20301.0,FLORIDA,Unknown,2,2023,Denied,668
+2023-02-01,FLORIDA,35-2021,Food Preparation Workers,35,Level I,20301.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-04,FLORIDA,35-2021,Food Preparation Workers,35,Level I,20301.0,FLORIDA,Unknown,2,2023,Denied,668
+2023-02-18,TENNESSEE,35-2021.00,Food Preparation Workers,35,Level I,17597.0,TENNESSEE,Unknown,2,2023,Denied,654
+2023-03-01,TENNESSEE,35-2021.00,Food Preparation Workers,35,Level I,17597.0,TENNESSEE,Unknown,3,2023,Denied,643
+2023-02-18,TENNESSEE,35-2021.00,Food Preparation Workers,35,Level I,17597.0,TENNESSEE,Unknown,2,2023,Denied,654
+2023-02-21,FLORIDA,35-2021.00,Food Preparation Workers,35,Level I,21507.0,FLORIDA,Unknown,2,2023,Denied,651
+2023-03-01,FLORIDA,35-2021.00,Food Preparation Workers,35,Level I,21507.0,FLORIDA,Unknown,3,2023,Denied,643
+2023-02-01,FLORIDA,35-3031,Waiters and Waitresses,35,Level I,19198.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-01,FLORIDA,35-3031,Waiters and Waitresses,35,Level I,19198.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-01,FLORIDA,35-3031,Waiters and Waitresses,35,Level I,19198.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-01,FLORIDA,35-3031,Waiters and Waitresses,35,Level I,19198.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-01,FLORIDA,35-3031,Waiters and Waitresses,35,Level I,19198.0,FLORIDA,Unknown,2,2023,Denied,671
+2023-02-06,FLORIDA,35-3031,Waiters and Waitresses,35,Level I,19198.0,FLORIDA,Unknown,2,2023,Denied,666
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-18,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,930
+2022-05-19,MICHIGAN,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,23005.0,MICHIGAN,Unknown,5,2022,Denied,929
+2022-07-14,ILLINOIS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Level I,20779.0,FLORIDA,Unknown,7,2022,Denied,873
+2022-09-05,OHIO,37-3011,Landscaping and Snow Removal Worker,37,Level I,23691.0,OHIO,Unknown,9,2022,Denied,820
+2022-09-05,OHIO,37-3011,Landscaping and Snow Removal Worker,37,Level I,23691.0,OHIO,Unknown,9,2022,Denied,820
+2022-10-06,NEW JERSEY,39-9011,CHILDCARE WORKERS,39,Level IV,34778.0,NEW JERSEY,Unknown,10,2022,Denied,789
+2023-01-23,OHIO  ,41-1011,FirstLine Supervisors of Retail Sales Workers,41,Level II,35963.0,OHIO,Associate's,1,2023,Denied,680
+2022-12-08,GEORGIA,43-3031,BOOKKEEPPER,43,Level II,37960.0,GEORGIA,Associate's,12,2022,Denied,726
+2023-02-21,FLORIDA,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",43,Level I,23026.0,FLORIDA,Unknown,2,2023,Denied,651
+2023-02-06,FLORIDA,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",43,Level I,23026.0,FLORIDA,Unknown,2,2023,Denied,666
+2023-02-06,FLORIDA,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",43,Level I,23026.0,FLORIDA,Unknown,2,2023,Denied,666
+2023-02-21,FLORIDA,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",43,Level I,23026.0,FLORIDA,Unknown,2,2023,Denied,651
+2023-03-15,FLORIDA,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",43,Level I,23026.0,FLORIDA,Unknown,3,2023,Denied,629
+2022-11-17,MISSISSIPPI,45-2091,Agricultural Equipment Operator,45,Level II,24898.0,MISSISSIPPI,Unknown,11,2022,Denied,747
+2022-12-13,GEORGIA,47-2044,TILE AND STONE SETTERS,47,Level I,32802.0,GEORGIA,Unknown,12,2022,Denied,721
+2023-03-15,FLORIDA,47-2061,Construction laborers,47,Level I,11.72,FLORIDA,Unknown,3,2023,Denied,629
+2023-03-15,FLORIDA,47-2061,Construction laborers,47,Level I,11.72,FLORIDA,Unknown,3,2023,Denied,629
+2022-12-14,MICHIGAN,49-1011,"FirstLine Supervisors of Mechanics, Installers, and Repairers",49,Level IV,91291.0,MICHIGAN,Unknown,12,2022,Denied,720
+2023-01-18,GEORGIA,49-9071,"Maintenance and Repair Workers, General",49,Level I,27893.0,GEORGIA,Unknown,1,2023,Denied,685
+2023-01-18,GEORGIA,49-9071,"Maintenance and Repair Workers, General",49,Level I,27893.0,GEORGIA,Unknown,1,2023,Denied,685
+2023-02-06,FLORIDA,49-9071.00,"Maintenance and Repair Workers, General",49,Level I,26478.0,FLORIDA,Unknown,2,2023,Denied,666
+2023-02-28,FLORIDA,53-2012,Commercial Pilots,53,Level IV,144490.0,FLORIDA,Associate's,2,2023,Denied,644
+2022-11-02,TENNESSEE,53-3032.00,Heavy and TractorTrailer Truck Drivers,53,Level III,41579.0,TENNESSEE,Unknown,11,2022,Denied,762
+2023-03-03,OREGON,11-9051.00,Food Service Managers,11,Level III,61672.0,OREGON,Other,3,2023,Certified,644
+2023-04-06,NORTH DAKOTA,13-2011.00,Accountants and Auditors,13,Level IV,84989.0,NEBRASKA,Bachelor's,4,2023,Certified,610
+2023-05-08,NEW YORK,13-2051.00,Financial and Investment Analysts,13,Level II,105331.0,NEW YORK,Master's,5,2023,Certified,578
+2023-05-01,CALIFORNIA,15-1036,"Software Developers, Systems Software, Non RD ACWIA Only",15,Level IV,127462.0,CALIFORNIA,Bachelor's,5,2023,Certified,585
+2023-05-01,CALIFORNIA,15-1052,"Computer Systems Analysts, Non RD ACWIA Only",15,Level IV,131290.0,CALIFORNIA,Bachelor's,5,2023,Certified,585
+2023-02-23,NEW JERSEY,15-1252.00,Software Developers,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Certified,652
+2023-05-08,SOUTH DAKOTA,15-1252.00,Software Developers,15,Level I,74443.0,ARIZONA,Bachelor's,5,2023,Certified,578
+2023-05-22,VIRGINIA,15-1252.00,Software Developers,15,Unknown,88600.0,VIRGINIA,Bachelor's,5,2023,Certified,564
+2023-05-02,TEXAS,15-1252.00,Software Developers,15,Level IV,129397.0,TEXAS,Bachelor's,5,2023,Denied,584
+2023-05-31,TEXAS TX,15-1252.00,Software Developers,15,Level IV,134992.0,TEXAS,Master's,5,2023,Certified,555
+2023-05-31,TEXAS TX,15-1252.00,Software Developers,15,Level IV,134992.0,TEXAS,Master's,5,2023,Certified,555
+2023-05-31,TEXAS TX,15-1252.00,Software Developers,15,Level IV,134992.0,TEXAS,Master's,5,2023,Certified,555
+2023-05-31,TEXAS TX,15-1252.00,Software Developers,15,Level IV,134992.0,TEXAS,Master's,5,2023,Certified,555
+2023-05-31,TEXAS TX,15-1253.00,Software Quality Assurance Analysts and Testers,15,Level IV,108202.0,TEXAS,Master's,5,2023,Certified,555
+2023-05-05,TENNESSEE,17-3011,Architectural and Civil Drafters,17,Level II,49379.0,TENNESSEE,Bachelor's,5,2023,Certified,581
+2023-05-08,TENNESSEE,17-3011,Architectural and Civil Drafters,17,Level II,49379.0,TENNESSEE,Bachelor's,5,2023,Certified,578
+2023-04-13,CALIFORNIA,31-1131.00,Caregivers,31,Level I,31990.0,CALIFORNIA,Unknown,4,2023,Certified,603
+2023-04-19,FLORIDA,31-9091,Dental Assistant,31,Level III,39541.0,FLORIDA,Unknown,4,2023,Certified,597
+2023-04-27,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,589
+2023-04-27,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,589
+2023-04-27,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,589
+2023-04-30,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,586
+2023-04-27,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,589
+2023-04-30,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,586
+2023-04-29,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,587
+2023-04-30,UTAH UT,35-2015,Pizza Maker,35,Level I,17139.0,UTAH,High School,4,2023,Certified,586
+2023-05-01,CALIFORNIA,39-9011.01,Nannies,39,Level II,35838.0,CALIFORNIA,Unknown,5,2023,Certified,585
+2023-05-18,FLORIDA,39-9011.01,Nannies,39,Level II,24274.0,FLORIDA,High School,5,2023,Certified,568
+2023-04-20,FLORIDA,43-5011,Dispatcher,43,Level III,46987.0,FLORIDA,High School,4,2023,Certified,596
+2023-05-17,TEXAS,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45,Level I,17618.0,TEXAS,Unknown,5,2023,Certified,569
+2023-05-28,TEXAS,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45,Level I,17618.0,TEXAS,Unknown,5,2023,Certified,558
+2023-05-17,NEW JERSEY,13-1023.00,Procurement Lead,13,Level II,70450.0,NEW JERSEY,Bachelor's,5,2023,Certified,572
+2023-03-21,DISTRICT OF COLUMBIA,13-2051,Financial and Investment Analysts,13,Level I,77272.0,NEW YORK,Bachelor's,3,2023,Certified,629
+2023-05-24,NEW JERSEY,15-1211.00,Computer Systems Analysts,15,Level I,73965.0,NEW JERSEY,Bachelor's,5,2023,Certified,565
+2023-05-08,TENNESSEE,15-1252.00,Developer IV,15,Level IV,126651.0,FLORIDA,Bachelor's,5,2023,Certified,581
+2023-05-19,FLORIDA,15-2031,Operations Research Analysts,15,Level III,101400.0,NEW YORK,Doctorate,5,2023,Certified,570
+2023-05-07,MISSOURI,15-2051.00,Data  Insights Analyst,15,Level II,78603.0,MISSOURI,Master's,5,2023,Certified,582
+2023-05-11,ARIZONA,17-2011,Aeronautics Engineer,17,Level I,92061.0,ARIZONA,Bachelor's,5,2023,Certified,578
+2023-05-01,MICHIGAN,17-2199.00,Mechatronics Engineers,17,Level II,83325.0,MICHIGAN,Bachelor's,5,2023,Certified,588
+2023-05-11,NEW YORK,29-1221.00,"Pediatricians, General",29,Level I,115606.0,NEW YORK,Other,5,2023,Certified,578
+2023-05-26,CALIFORNIA,31-1011,CAREGIVER,31,Level II,15.04,CALIFORNIA,High School,5,2023,Certified,563
+2023-04-20,MARYLAND,31-1122.00,PERSONAL CARE AIDES,31,Level I,25293.0,MARYLAND,High School,4,2023,Certified,599
+2023-05-08,ILLINOIS IL,31-9092.00,Medical Assistant,31,Unknown,18.27,ILLINOIS,Unknown,5,2023,Certified,581
+2023-05-29,TEXAS,37-2012,Maids and Housekeeping Cleaners,37,Level I,28870.0,NEW JERSEY,Unknown,5,2023,Certified,560
+2023-05-10,FLORIDA,39-5012,"Hairdressers, Hairstylists, and Cosmetologists",39,Level I,21632.0,FLORIDA,High School,5,2023,Certified,579
+2023-05-12,MARYLAND,39-9011.00,Childcare Workers,39,Level II,12.72,MARYLAND,High School,5,2023,Certified,577
+2023-05-22,NEW JERSEY,41-2011,Cashiers,41,Level II,29640.0,NEW JERSEY,Unknown,5,2023,Certified,567
+2023-05-05,FLORIDA,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",43,Level IV,48547.0,FLORIDA,High School,5,2023,Certified,584
+2023-05-08,TEXAS,47-2141,Supervising Painter,47,Level III,40040.0,TEXAS,High School,5,2023,Certified,581
+2023-05-29,TEXAS,51-6011,Laundry and DryCleaning Workers,51,Level I,27643.0,NEW JERSEY,Unknown,5,2023,Certified,560
+2023-05-01,VIRGINIA,13-1082.00,Project Management Specialists,13,Level IV,137197.0,VIRGINIA,Bachelor's,5,2023,Certified,590
+2023-04-28,NEBRASKA,13-1161,Market Research Analysts and Marketing Specialists,13,Level I,44803.0,CALIFORNIA,Bachelor's,4,2023,Certified,593
+2023-05-19,TEXAS,13-2011,Accountants and Auditors,13,Level II,73882.0,TEXAS,Master's,5,2023,Certified,572
+2023-05-16,CALIFORNIA,15-1212.00,Information Security Analysts,15,Level II,74547.0,TEXAS,Master's,5,2023,Certified,575
+2023-05-03,OREGON,15-1252.00,Software Developers,15,Level IV,138528.0,OREGON,Bachelor's,5,2023,Certified,588
+2023-05-09,TEXAS,15-1252.00,Software Developers,15,Level IV,124842.0,TEXAS,Bachelor's,5,2023,Certified,582
+2023-04-25,ARIZONA,15-1252.00,Software Developers,15,Level IV,136552.0,ARIZONA,Master's,4,2023,Certified,596
+2023-05-30,CALIFORNIA,15-1252.00,Software Developers,15,Level IV,147410.0,CALIFORNIA,Master's,5,2023,Denied,561
+2023-05-11,NEW YORK,17-1011,Senior Designer,17,Level IV,105602.0,NEW YORK,Bachelor's,5,2023,Certified,580
+2023-05-11,NEW YORK,17-1011,Intermediate DesignerArchitect,17,Level III,105602.0,NEW YORK,Bachelor's,5,2023,Certified,580
+2023-05-02,PENNSYLVANIA,17-2112,Industrial Engineers,17,Level III,88026.0,PENNSYLVANIA,Bachelor's,5,2023,Certified,589
+2023-05-25,OKLAHOMA,25-1022.00,"Mathematical Science Teachers, Postsecondary",25,Level I,38180.0,OKLAHOMA,Doctorate,5,2023,Certified,566
+2023-05-29,CALIFORNIA,29-2011.00,Clinical Laboratory Scientist,29,Level I,49962.0,CALIFORNIA,Bachelor's,5,2023,Certified,562
+2023-05-04,MARYLAND,31-1122.00,PERSONAL CARE AIDES,31,Level I,25293.0,MARYLAND,High School,5,2023,Certified,587
+2023-05-29,NEVADA,35-2021,Food Preparation Workers,35,Level I,22298.0,NEVADA,Unknown,5,2023,Certified,562
+2023-05-30,NEVADA,35-2021,Food Preparation Workers,35,Level I,22298.0,NEVADA,Unknown,5,2023,Certified,561
+2023-05-30,NORTH DAKOTA,37-1011,FirstLine Supervisors of Housekeeping and Janitorial Workers,37,Level III,49878.0,NORTH DAKOTA,High School,5,2023,Certified,561
+2023-05-31,TEXAS,41-3031.00,Financial Services Representative,41,Level III,86195.0,TEXAS,Bachelor's,5,2023,Certified,560
+2023-05-09,ILLINOIS,11-1021,General and Operations Managers,11,Level IV,145475.0,TEXAS,Master's,5,2023,Certified,583
+2023-05-03,FLORIDA,11-3051.01,Mechanical Quality Control Manager,11,Level I,66456.0,FLORIDA,Bachelor's,5,2023,Certified,589
+2023-05-16,FLORIDA,13-1121.00,"Meeting, Convention, and Event Planners",13,Level II,37627.0,FLORIDA,Bachelor's,5,2023,Certified,576
+2023-05-14,GUAM,13-2011,Accountant,13,Level I,34882.0,GUAM,Bachelor's,5,2023,Certified,578
+2023-01-23,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,1,2023,Denied,689
+2023-02-13,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,668
+2023-05-05,NEW YORK,15-1252.00,Database Architects,15,Level IV,157061.0,VIRGINIA,Bachelor's,5,2023,Certified,587
+2023-02-23,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,658
+2023-02-23,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,658
+2023-02-24,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,657
+2023-05-10,CALIFORNIA,15-1252.00,Software Developers,15,Level II,141378.0,CALIFORNIA,Bachelor's,5,2023,Certified,582
+2023-05-23,GEORGIA,17-2072,Electrical Design Engineer,17,Level III,114587.0,GEORGIA,Master's,5,2023,Certified,569
+2023-05-04,NEW JERSEY,23-2011.00,PARALEGAL,23,Level II,55162.0,NEW JERSEY,Bachelor's,5,2023,Certified,588
+2023-05-12,FLORIDA,29-1051,Pharmacist,29,Level II,104686.0,FLORIDA,Bachelor's,5,2023,Certified,580
+2023-05-04,MARYLAND,31-1122.00,PERSONAL CARE AIDES,31,Level I,25293.0,MARYLAND,High School,5,2023,Certified,588
+2020-11-04,CALIFORNIA,11-9051,RESTAURANT AND BEVERAGE MANAGER,11,Level IV,59155.0,CALIFORNIA,Associate's,11,2020,Denied,1500
+2021-10-27,NEW YORK,11-9021,Construction Managers,11,Level III,148138.0,NEW YORK,Master's,10,2021,Denied,1143
+2021-06-23,NEW YORK,11-2022,Store Manager,11,Level II,152901.0,NEW YORK,Master's,6,2021,Denied,1269
+2021-10-06,VIRGINIA,15-1132,"Software Developers, Applications",15,Level III,119933.0,VIRGINIA,Master's,10,2021,Denied,1164
+2023-04-13,MINNESOTA,15-1211.00,Computer Systems Analysts,15,Level IV,111238.0,MINNESOTA,Bachelor's,4,2023,Certified,610
+2023-05-31,CALIFORNIA,35-2014,"Cooks, Specialty Thai food",35,Level IV,39832.0,CALIFORNIA,Unknown,5,2023,Certified,562
+2023-05-18,VIRGINIA,35-3023.00,FAST FOOD AND COUNTER WORKERS,35,Level I,23899.0,VIRGINIA,High School,5,2023,Certified,575
+2023-05-24,VIRGINIA,35-3023.00,FAST FOOD AND COUNTER WORKERS,35,Level I,23899.0,VIRGINIA,High School,5,2023,Certified,569
+2023-05-30,NORTH DAKOTA,37-1011,FirstLine Supervisors of Housekeeping and Janitorial Workers,37,Level III,49878.0,NORTH DAKOTA,High School,5,2023,Certified,563
+2023-05-27,CALIFORNIA,39-9011.01,Nannies,39,Level IV,43098.0,CALIFORNIA,Unknown,5,2023,Certified,566
+2023-05-01,TEXAS,49-1011,"FirstLine Supervisors of Mechanics, Installers, and Repairers",49,Level IV,85093.0,TEXAS,Unknown,5,2023,Certified,592
+2023-01-18,MINNESOTA,13-1082.00,Project Management Specialists,13,Level III,96054.0,CALIFORNIA,Master's,1,2023,Denied,698
+2022-12-08,CALIFORNIA,13-2011,Accountants and Auditors,13,Level I,68266.0,CALIFORNIA,Bachelor's,12,2022,Denied,739
+2022-11-08,FLORIDA,15-1121,Computer Systems Analyst,15,Level I,60133.0,FLORIDA,Bachelor's,11,2022,Denied,769
+2022-12-08,TEXAS,15-1121,Computer Systems Analysts,15,Level I,67475.0,TEXAS,Bachelor's,12,2022,Denied,739
+2022-12-16,WASHINGTON,15-1121,Computer Systems Analysts,15,Level IV,132454.0,WASHINGTON,Bachelor's,12,2022,Denied,731
+2023-01-23,WASHINGTON,15-1121,Computer Systems Analysts,15,Level IV,128086.0,WASHINGTON,Bachelor's,1,2023,Denied,693
+2023-02-10,TEXAS,15-1132,Software Architect Senior,15,Level IV,140462.0,TEXAS,Bachelor's,2,2023,Denied,675
+2022-12-09,CALIFORNIA,15-1132,"Software Developers, Applications",15,Level III,123614.0,NEW YORK,Master's,12,2022,Denied,738
+2023-01-10,NEW JERSEY,15-1132,"Software Developers, Applications",15,Level II,109283.0,NEW JERSEY,Master's,1,2023,Denied,706
+2022-10-04,TEXAS,15-1142,Network and Computer Systems Administrators,15,Level II,77042.0,TEXAS,Master's,10,2022,Denied,804
+2023-01-07,TEXAS,15-1211.00,Computer Technician,15,Level I,50461.0,TEXAS,Associate's,1,2023,Denied,709
+2023-01-11,CALIFORNIA,15-1242.00,Database Administrators,15,Level IV,123198.0,CALIFORNIA,Bachelor's,1,2023,Denied,705
+2023-03-01,NEW JERSEY,15-1243.00,DATABASE ARCHITECT,15,Level II,115440.0,NEW JERSEY,Master's,3,2023,Denied,656
+2023-01-11,NEW JERSEY HUDSON,15-1252.00,Software Developers,15,Level IV,157477.0,NEW JERSEY,Master's,1,2023,Denied,705
+2023-02-02,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,683
+2023-02-03,TEXAS,15-1252.00,"Software Developers,",15,Level II,98904.0,TEXAS,Master's,2,2023,Denied,682
+2023-03-14,WISCONSIN,15-1252.00,Software Developers,15,Level III,102315.0,WISCONSIN,High School,3,2023,Denied,643
+2023-02-13,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,672
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,656
+2023-03-01,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,3,2023,Denied,656
+2023-02-16,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,2,2023,Denied,669
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,656
+2023-03-01,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,3,2023,Denied,656
+2023-03-17,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,3,2023,Denied,640
+2023-03-15,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,3,2023,Denied,642
+2023-03-29,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,3,2023,Denied,628
+2023-04-06,PENNSYLVANIA,15-1252.00,Software Engineer,15,Level I,77397.0,PENNSYLVANIA,Bachelor's,4,2023,Denied,620
+2023-03-01,TEXAS,15-1253.00,Software Quality Assurance Analysts and Testers,15,Level IV,108202.0,TEXAS,Bachelor's,3,2023,Denied,656
+2023-03-01,TEXAS,15-1253.00,Software Quality Assurance Analysts and Testers,15,Level IV,108202.0,TEXAS,Bachelor's,3,2023,Denied,656
+2023-01-24,ILLINOIS,15-2041.01,Biostatisticians,15,Level II,80142.0,ILLINOIS,Master's,1,2023,Denied,692
+2023-01-11,CALIFORNIA,17-2071,Electrical Engineers,17,Level I,99861.0,CALIFORNIA,Bachelor's,1,2023,Denied,705
+2023-02-06,PENNSYLVANIA,17-2112,Industrial Engineers,17,Level I,70325.0,PENNSYLVANIA,Bachelor's,2,2023,Denied,679
+2023-01-11,CONNECTICUT,25-1011,"Business Teachers, Postsecondary",25,Unknown,92005.0,CONNECTICUT,Doctorate,1,2023,Denied,705
+2022-12-15,MASSACHUSETTS,25-1011,"Business Teachers, Postsecondary",25,Level I,54410.0,MASSACHUSETTS,Doctorate,12,2022,Denied,732
+2023-03-21,MASSACHUSETTS,25-1011,"Business Teachers, Postsecondary",25,Level I,54410.0,MASSACHUSETTS,Doctorate,3,2023,Denied,636
+2022-12-16,CALIFORNIA,25-2021,"Elementary School Teachers, Except Special Education",25,Unknown,89340.07,CALIFORNIA,Bachelor's,12,2022,Denied,731
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,59300.0,TEXAS,Bachelor's,1,2023,Denied,685
+2023-01-31,TEXAS,25-2021,Elementary School Teacher,25,Level II,47663.0,TEXAS,Bachelor's,1,2023,Denied,685
+2022-12-08,CALIFORNIA,25-9042.00,TEACHER ASSISTANT,25,Unknown,16.11,CALIFORNIA,Bachelor's,12,2022,Denied,739
+2023-02-26,VIRGINIA AIC Fencing Club,27-2022.00,Fencing Head Coach,27,Level IV,69640.0,VIRGINIA,High School,2,2023,Denied,659
+2023-01-31,TENNESSEE,31-1131.00,Nursing Assistant,31,Level I,24211.0,TENNESSEE,High School,1,2023,Denied,685
+2022-09-09,RHODE ISLAND,35-1011,Chefs and Head Cooks,35,Level I,43306.0,RHODE ISLAND,Unknown,9,2022,Denied,829
+2023-02-03,CALIFORNIA,35-2014,"Cooks, Restaurant",35,Level III,38917.0,CALIFORNIA,Unknown,2,2023,Denied,682
+2023-02-28,MASSACHUSETTS,35-2014,Line Cook,35,Unknown,25.0,MASSACHUSETTS,Unknown,2,2023,Denied,657
+2023-02-21,NORTH CAROLINA,35-2015.00,"Cooks, Short Order",35,Level I,22214.0,NORTH CAROLINA,Unknown,2,2023,Denied,664
+2023-03-01,FLORIDA,35-2015.00,"Cooks, Short Order",35,Level I,20987.0,FLORIDA,Unknown,3,2023,Denied,656
+2023-02-21,NORTH CAROLINA,35-2015.00,"Cooks, Short Order",35,Level I,22214.0,NORTH CAROLINA,Unknown,2,2023,Denied,664
+2023-02-18,FLORIDA,35-2021.00,Food Preparation Workers,35,Level I,21674.0,FLORIDA,Unknown,2,2023,Denied,667
+2023-02-18,NORTH CAROLINA,35-2021.00,Food Preparation Workers,35,Level I,21278.0,NORTH CAROLINA,Unknown,2,2023,Denied,667
+2023-02-21,NORTH CAROLINA,35-2021.00,Food Preparation Workers,35,Level I,21278.0,NORTH CAROLINA,Unknown,2,2023,Denied,664
+2023-02-21,FLORIDA,35-2021.00,Food Preparation Workers,35,Level I,21507.0,FLORIDA,Unknown,2,2023,Denied,664
+2023-02-08,FLORIDA,35-3041.00,Server,35,Unknown,36754.0,FLORIDA,Unknown,2,2023,Denied,677
+2023-02-07,FLORIDA,35-3041.00,Server,35,Unknown,36754.0,FLORIDA,Unknown,2,2023,Denied,678
+2023-01-10,MASSACHUSETTS,37-1011,Supervisor of Janitorial Workers,37,Level II,50006.0,MASSACHUSETTS,High School,1,2023,Denied,706
+2023-02-09,CALIFORNIA,39-9011,nanny,39,Level II,15.5,CALIFORNIA,High School,2,2023,Denied,676
+2023-01-23,CALIFORNIA,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43,Level III,46509.0,CALIFORNIA,Bachelor's,1,2023,Denied,693
+2023-03-09,NEW YORK,45-2092,PLANT PROPAGATOR,45,Level IV,37419.0,NEW YORK,Unknown,3,2023,Denied,648
+2023-02-06,ARIZONA,45-2093,Ranch Hand,45,Level I,13.75,ARIZONA,Unknown,2,2023,Denied,679
+2023-02-01,ARKANSAS,49-3041,Farm Equipment Mechanic,49,Level I,33051.0,ARKANSAS,High School,2,2023,Denied,684
+2022-11-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,11,2022,Denied,760
+2023-01-17,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,1,2023,Denied,699
+2023-02-07,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,2,2023,Denied,678
+2023-02-14,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,2,2023,Denied,671
+2023-02-20,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,2,2023,Denied,665
+2023-02-20,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,2,2023,Denied,665
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,657
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,657
+2023-03-01,MASSACHUSETTS,15-1252.00,Software Applications Developer,15,Level II,108181.0,MASSACHUSETTS,Master's,3,2023,Certified,657
+2023-05-09,NEW JERSEY,15-1252.00,Software Developers,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Certified,588
+2023-04-17,FLORIDA FL,37-3019.00,Grounds Maintenance Worker,37,Level I,26832.0,FLORIDA,High School,4,2023,Certified,611
+2023-05-08,GEORGIA,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",51,Level I,23171.0,GEORGIA,Unknown,5,2023,Certified,590
+2023-05-02,MICHIGAN,13-1082.00,Project Management Specialists,13,Level IV,112653.0,MICHIGAN,Bachelor's,5,2023,Certified,597
+2021-11-09,NEW JERSEY,15-1121,Computer Systems Analysts,15,Unknown,104632.0,NEW YORK,Bachelor's,11,2021,Certified,1137
+2021-12-07,CALIFORNIA,15-1121,Computer Systems Analysts,15,Level III,105373.0,CALIFORNIA,Master's,12,2021,Certified,1109
+2023-04-04,CALIFORNIA KUBO MONTESSORI LLC,11-9031,Education and Childcare Administrator,11,Level I,59862.0,CALIFORNIA,Bachelor's,4,2023,Denied,632
+2023-01-19,FLORIDA,11-3071,LOGISTICS MANAGERS,11,Level I,52478.0,FLORIDA,Bachelor's,1,2023,Denied,707
+2023-03-06,TEXAS,11-1021,General and Operations Managers,11,Unknown,78645.0,TEXAS,Bachelor's,3,2023,Denied,661
+2023-05-10,CALIFORNIA,13-1081.02,Logistics Analysts,13,Level II,70054.0,CALIFORNIA,Master's,5,2023,Denied,596
+2023-02-06,TEXAS,13-1161.01,Digital Marketing Specialist,13,Level II,54371.0,TEXAS,Unknown,2,2023,Denied,689
+2022-10-07,CALIFORNIA,15-1132,"Software Developers, Applications",15,Level IV,139818.0,CALIFORNIA,Bachelor's,10,2022,Denied,811
+2023-02-08,UTAH,15-1132,"Software Developers, Applications",15,Level IV,162510.0,WASHINGTON,Master's,2,2023,Denied,687
+2023-01-11,NEW JERSEY,15-1212.00,Information Systems Security Analyst,15,Level I,85758.0,NEW JERSEY,Bachelor's,1,2023,Denied,715
+2023-03-07,PENNSYLVANIA,15-1252.00,Software Developers,15,Level IV,103085.0,WISCONSIN,Bachelor's,3,2023,Denied,660
+2023-03-06,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,3,2023,Denied,661
+2023-04-03,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,633
+2023-04-04,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,632
+2023-04-04,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,632
+2023-04-04,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,632
+2023-04-11,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,4,2023,Denied,625
+2023-04-20,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,4,2023,Denied,616
+2023-04-12,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,624
+2023-04-14,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,622
+2023-04-20,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,4,2023,Denied,616
+2023-05-03,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,603
+2023-05-18,TEXAS,15-1252.00,Software Developers,15,Level II,90522.0,TEXAS,Master's,5,2023,Denied,588
+2023-05-30,TEXAS,15-1252.00,Software Developers,15,Level II,90522.0,TEXAS,Master's,5,2023,Denied,576
+2022-09-13,COLORADO,19-2041.01,CLIMATE CHANGE ANALYSTS,19,Level I,59738.0,COLORADO,Master's,9,2022,Denied,835
+2023-05-06,OHIO,19-3011,Economist,19,Level II,90147.0,OHIO,Doctorate,5,2023,Denied,600
+2023-05-06,OHIO,19-3011,Economist,19,Level II,90147.0,OHIO,Doctorate,5,2023,Denied,600
+2023-05-06,OHIO,19-3011,Economist,19,Level II,90147.0,OHIO,Doctorate,5,2023,Denied,600
+2023-05-02,KANSAS,29-1021.00,General Dentist,29,Level I,52707.0,KANSAS,Doctorate,5,2023,Denied,604
+2023-02-25,NORTH DAKOTA,29-1141,REGISTERED NURSE,29,Level I,56805.0,NORTH DAKOTA,Associate's,2,2023,Denied,670
+2023-05-31,MISSOURI,31-1014,Nursing Assistants,31,Level I,27602.0,ILLINOIS,High School,5,2023,Denied,575
+2023-05-31,MISSOURI,31-1014,Nursing Assistants,31,Level I,27602.0,ILLINOIS,High School,5,2023,Denied,575
+2023-05-31,MISSOURI,31-1014,Nursing Assistants,31,Level I,27602.0,ILLINOIS,High School,5,2023,Denied,575
+2023-05-31,MISSOURI,31-1014,Nursing Assistants,31,Level I,27602.0,ILLINOIS,High School,5,2023,Denied,575
+2023-01-24,FLORIDA,35-1012.00,FirstLine Supervisors of Food Preparation and Serving Workers,35,Level IV,45802.0,FLORIDA,Bachelor's,1,2023,Denied,702
+2023-02-17,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level I,23296.0,FLORIDA,Unknown,2,2023,Denied,678
+2023-02-18,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level I,23566.0,FLORIDA,Unknown,2,2023,Denied,677
+2023-02-17,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level I,21674.0,FLORIDA,Unknown,2,2023,Denied,678
+2023-02-17,FLORIDA,35-2015.00,"Cooks, Short Order",35,Level I,20987.0,FLORIDA,Unknown,2,2023,Denied,678
+2023-02-17,MARYLAND,35-2015.00,"Cooks, Short Order",35,Level I,17514.0,MARYLAND,Unknown,2,2023,Denied,678
+2023-03-14,MARYLAND,35-2015.00,"Cooks, Short Order",35,Level I,17514.0,MARYLAND,Unknown,3,2023,Denied,653
+2023-02-17,FLORIDA,35-2021.00,Food Preparation Workers,35,Level I,21507.0,FLORIDA,Unknown,2,2023,Denied,678
+2023-02-17,MARYLAND,35-2021.00,Food Preparation Workers,35,Level I,22402.0,MARYLAND,Unknown,2,2023,Denied,678
+2023-03-16,MASSACHUSETTS,39-9011.01,LiveinNanny,39,Level III,37856.0,MASSACHUSETTS,High School,3,2023,Denied,651
+2023-04-21,CALIFORNIA,41-4012,SALES AGENT,41,Level I,37877.0,CALIFORNIA,Unknown,4,2023,Denied,615
+2023-03-27,MASSACHUSETTS MASSACHUSETTS,41-9031,Sales Engineers,41,Level III,114358.0,MASSACHUSETTS,Bachelor's,3,2023,Denied,640
+2023-05-22,FLORIDA,43-3021.00,Billing and Posting Clerks,43,Level I,33093.0,FLORIDA,High School,5,2023,Denied,584
+2022-12-08,ILLINOIS,43-5032,Truck Dispatcher,43,Level II,41309.0,ILLINOIS,High School,12,2022,Denied,749
+2022-12-08,ILLINOIS,43-5032,Truck Dispatcher,43,Level II,41309.0,ILLINOIS,High School,12,2022,Denied,749
+2022-12-08,ILLINOIS,43-5032,Truck Dispatcher,43,Level II,41309.0,ILLINOIS,High School,12,2022,Denied,749
+2022-12-09,ILLINOIS,43-5032,Truck Dispatcher,43,Level IV,58739.0,ILLINOIS,High School,12,2022,Denied,748
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,Unknown,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,Unknown,High School,3,2023,Denied,637
+2023-01-12,CALIFORNIA,53-3032.00,TRUCK DRIVER,53,Level II,20.75,CALIFORNIA,Unknown,1,2023,Denied,714
+2023-02-06,UTAH,53-3032.00,Truck Driver,53,Level II,43846.0,UTAH,Unknown,2,2023,Denied,689
+2023-03-30,NORTH DAKOTA,,DELI ASSISTANT,na,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-03-30,NORTH DAKOTA,,DELI ASSISTANT,na,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,637
+2023-05-01,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level III,133390.0,NEW JERSEY,Master's,5,2023,Denied,606
+2023-04-12,FLORIDA,11-9051,Restaurant Manager,11,Level III,68245.0,FLORIDA,High School,4,2023,Denied,628
+2023-04-24,NEW YORK,11-3012.00,Administrative Services Manager,11,Level IV,176238.0,NEW YORK,Bachelor's,4,2023,Denied,616
+2023-05-26,CALIFORNIA,11-9021.00,Construction Managers,11,Level I,95597.0,CALIFORNIA,Bachelor's,5,2023,Denied,584
+2023-05-31,NEW JERSEY,13-1111,MANAGEMENT ANALYST,13,Level II,97198.0,NEW JERSEY,Master's,5,2023,Denied,579
+2023-05-15,CALIFORNIA,13-2051.00,Financial and Investment Analysts,13,Level IV,158434.0,CALIFORNIA,Master's,5,2023,Denied,595
+2023-01-12,CALIFORNIA,15-1133,"Software Developers, Systems Software",15,Level II,130894.0,CALIFORNIA,Master's,1,2023,Denied,718
+2023-01-11,CALIFORNIA,15-1133,"Software Developers, Systems Software",15,Level IV,184080.0,CALIFORNIA,Unknown,1,2023,Denied,719
+2023-05-24,NEW JERSEY,15-1211.00,COMPUTER SYSTEMS ANALYST,15,Level II,95514.0,NEW JERSEY,Master's,5,2023,Denied,586
+2023-01-12,CALIFORNIA,15-1252.00,Software Developers,15,Level II,141378.0,CALIFORNIA,Master's,1,2023,Denied,718
+2023-02-01,NEW JERSEY,15-1252.00,"Software Developer, Applications",15,Level II,109283.0,NEW JERSEY,Bachelor's,2,2023,Denied,698
+2023-04-05,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,635
+2023-04-14,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,626
+2023-04-20,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,620
+2023-05-05,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,605
+2023-05-25,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,585
+2023-05-22,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,588
+2023-05-24,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,586
+2023-05-31,TEXAS,17-2051,Civil Engineers,17,Level II,76669.0,TEXAS,Bachelor's,5,2023,Denied,579
+2023-02-21,INDIANA,17-2051.00,Civil Engineer,17,Level IV,113984.0,INDIANA,Master's,2,2023,Denied,678
+2023-01-12,CALIFORNIA,17-2072,"Electronics Engineers, Except Computer",17,Level II,124176.0,CALIFORNIA,Master's,1,2023,Denied,718
+2023-03-06,PENNSYLVANIA,17-2112.03,Manufacturing Engineer,17,Level IV,113963.0,PENNSYLVANIA,Bachelor's,3,2023,Denied,665
+2023-05-06,OHIO,19-3011,Economist,19,Level II,90147.0,OHIO,Doctorate,5,2023,Denied,604
+2023-03-08,NEW JERSEY,35-2014,ChefCook,35,Level I,32427.0,NEW JERSEY,High School,3,2023,Denied,663
+2023-03-08,NEW JERSEY,35-2014,ChefCook,35,Level I,32427.0,NEW JERSEY,High School,3,2023,Denied,663
+2023-03-08,NEW JERSEY,35-2014,ChefCook,35,Level I,32427.0,NEW JERSEY,High School,3,2023,Denied,663
+2023-03-08,NEW JERSEY,35-2014,ChefCook,35,Level I,32427.0,NEW JERSEY,High School,3,2023,Denied,663
+2023-03-08,NEW JERSEY,35-2014,ChefCook,35,Level I,32427.0,NEW JERSEY,High School,3,2023,Denied,663
+2023-03-08,NEW JERSEY,35-2014,ChefCook,35,Level I,32427.0,NEW JERSEY,High School,3,2023,Denied,663
+2023-02-17,FLORIDA,35-2021.00,Food Preparation Workers,35,Level I,21507.0,FLORIDA,Unknown,2,2023,Denied,682
+2023-03-13,OHIO,41-1011,Second Shift Manager,41,Level II,36858.0,OHIO,Associate's,3,2023,Denied,658
+2023-03-03,FLORIDA,43-6014,OFFICE ASSISTANT,43,Level I,26894.0,FLORIDA,High School,3,2023,Denied,668
+2023-03-30,NORTH DAKOTA,51-3011,DELI ASSISTANT,51,Unknown,33405.0,NORTH DAKOTA,High School,3,2023,Denied,641
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,669
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,669
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,669
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,669
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,669
+2023-03-16,UTAH,53-3033,Light Truck Driver,53,Level II,31242.0,UTAH,High School,3,2023,Denied,655
+2023-03-30,NORTH DAKOTA,,DELI ASSISTANT,na,Unknown,33405.0,Unknown,High School,3,2023,Denied,641
+2021-01-26,WASHINGTON,15-1132,"Software Developers, Applications",15,Level II,113110.0,WASHINGTON,Master's,1,2021,Certified,1435
+2021-02-10,TEXAS,39-9011,Childcare Workers,39,Level IV,28475.0,TEXAS,Associate's,2,2021,Certified,1423
+2021-09-14,TEXAS,11-1021,General and Operations Managers,11,Level IV,127608.0,NEW HAMPSHIRE,Bachelor's,9,2021,Certified,1211
+2022-03-18,MICHIGAN,15-1142,System Engineer,15,Level III,86050.0,MICHIGAN,Master's,3,2022,Denied,1026
+2023-03-06,NEW YORK,11-9041,Property Management Operation Specialist,11,Level I,67954.0,NEW YORK,Associate's,3,2023,Denied,680
+2023-03-09,MARYLAND,11-9051,Customer Experience Manager,11,Unknown,70540.0,MARYLAND,High School,3,2023,Denied,677
+2022-10-06,OHIO,11-3011,MEDICAL AND HEALTH SERVICES MANAGERS,11,Level I,70491.0,OHIO,Master's,10,2022,Denied,831
+2023-05-08,TENNESSEE,11-3021,Senior IT Technical Manager,11,Level IV,179192.0,FLORIDA,Bachelor's,5,2023,Denied,617
+2023-05-23,NEW YORK,11-9021,Project Manager,11,Level III,178194.0,NEW YORK,Master's,5,2023,Denied,602
+2023-05-22,INDIANA,11-9021,Construction Managers,11,Level IV,105456.0,INDIANA,Unknown,5,2023,Denied,603
+2023-05-23,FLORIDA,11-2021,Business Development Specialist,11,Level III,124592.0,FLORIDA,Bachelor's,5,2023,Denied,602
+2023-05-30,CALIFORNIA,11-2021,Marketing Director,11,Level II,126901.0,CALIFORNIA,Bachelor's,5,2023,Denied,595
+2023-05-08,VIRGINIA,11-2022,Store Manager,11,Level I,68973.0,VIRGINIA,Bachelor's,5,2023,Denied,617
+2023-03-24,NEW YORK,11-2022,SALES MANAGERS,11,Level III,180710.0,ILLINOIS,High School,3,2023,Denied,662
+2023-03-23,CALIFORNIA,11-1021,GENERAL AND OPERATIONS MANAGERS,11,Level IV,166046.0,CALIFORNIA,Bachelor's,3,2023,Denied,663
+2023-05-31,FLORIDA,11-1021,GENERAL AND OPERATIONS MANAGERS,11,Level I,73902.0,FLORIDA,Bachelor's,5,2023,Denied,594
+2023-01-11,TEXAS,11-2022.00,Sales Managers,11,Level I,69722.0,TEXAS,Bachelor's,1,2023,Denied,734
+2023-02-09,CALIFORNIA,13-1041.07,Regulatory Affairs Specialists,13,Level II,69285.0,CALIFORNIA,Unknown,2,2023,Denied,705
+2023-05-08,TEXAS,13-1051.00,Cost Estimators,13,Level I,43701.0,TEXAS,High School,5,2023,Denied,617
+2023-03-10,CALIFORNIA,13-1071.00,Assistant Personnel Recruiter,13,Level I,49670.0,CALIFORNIA,Other,3,2023,Denied,676
+2023-02-07,OREGON,13-1082.00,Project Management Specialists,13,Level II,62920.0,TENNESSEE,Master's,2,2023,Denied,707
+2023-05-15,TEXAS,13-1111,Management Analysts,13,Level II,83408.0,TEXAS,Master's,5,2023,Denied,610
+2023-05-15,NEW JERSEY,13-1111,MANAGEMENT ANALYST,13,Level II,97198.0,NEW JERSEY,Master's,5,2023,Denied,610
+2023-05-19,NEW JERSEY,13-1111,MANAGEMENT ANALYST,13,Level II,97198.0,NEW JERSEY,Master's,5,2023,Denied,606
+2023-05-26,PENNSYLVANIA,13-1111.00,Management Analysts,13,Level III,115357.0,ILLINOIS,Bachelor's,5,2023,Denied,599
+2023-03-01,WASHINGTON,13-1161,Market Research Analysts and Marketing Specialists,13,Level II,76003.0,WASHINGTON,Bachelor's,3,2023,Denied,685
+2023-01-20,CALIFORNIA,13-2011,Accountants and Auditors,13,Level III,103355.0,TEXAS,Master's,1,2023,Denied,725
+2023-05-23,CALIFORNIA,13-2011,Accountants and Auditors,13,Level II,72030.0,CALIFORNIA,Bachelor's,5,2023,Denied,602
+2023-03-09,NEW YORK,13-2011,Accountant,13,Level II,87942.0,NEW YORK,Bachelor's,3,2023,Denied,677
+2023-05-31,FLORIDA,13-2011,ACCOUNTANTS AND AUDITORS,13,Unknown,63648.0,FLORIDA,Bachelor's,5,2023,Denied,594
+2023-05-02,CALIFORNIA,13-2011.00,Accountants and Auditors,13,Level IV,102731.0,CALIFORNIA,Bachelor's,5,2023,Denied,623
+2023-04-21,FLORIDA,13-2041,Credit Analyst,13,Level I,22.39,FLORIDA,High School,4,2023,Denied,634
+2023-05-02,MISSOURI,13-2099.01,Financial Quantitative Analyst,13,Level I,45427.0,MISSOURI,Bachelor's,5,2023,Denied,623
+2023-03-06,TEXAS,15-1132,"Software Developers, Applications",15,Level I,69909.0,GEORGIA,Bachelor's,3,2023,Denied,680
+2023-05-16,ILLINOIS,15-1132,"Software Developers, Applications",15,Level III,114067.0,ILLINOIS,Master's,5,2023,Denied,609
+2023-05-22,MICHIGAN,15-1132,"Software Developers, Applications",15,Level III,101275.0,MICHIGAN,Master's,5,2023,Denied,603
+2023-03-20,TEXAS,15-1211.00,Computer Systems Analysts,15,Level I,67080.0,TEXAS,Bachelor's,3,2023,Denied,666
+2023-05-26,NEW JERSEY,15-1211.00,COMPUTER SYSTEMS ANALYST,15,Level II,95514.0,NEW JERSEY,Master's,5,2023,Denied,599
+2023-05-17,SOUTH CAROLINA,15-1231.00,Network Support Specialist,15,Level II,47861.0,SOUTH CAROLINA,Bachelor's,5,2023,Denied,608
+2023-05-31,WISCONSIN N/A,15-1232.00,Computer User Support Specialist,15,Level II,52250.0,WISCONSIN,Bachelor's,5,2023,Denied,594
+2022-11-08,CALIFORNIA,15-1252.00,Software Developers,15,Level II,141378.0,CALIFORNIA,Master's,11,2022,Denied,798
+2023-03-20,TEXAS,15-1252.00,Software Developers,15,Level I,80850.0,TEXAS,Bachelor's,3,2023,Denied,666
+2023-05-03,UTAH,15-1252.00,Software Developers,15,Level I,72509.0,UTAH,Bachelor's,5,2023,Denied,622
+2023-02-07,CALIFORNIA,15-1252.00,Software Developers,15,Level II,141378.0,CALIFORNIA,Master's,2,2023,Denied,707
+2023-03-03,CALIFORNIA,15-1252.00,Software Developers,15,Level II,98904.0,TEXAS,Bachelor's,3,2023,Denied,683
+2023-03-02,MISSOURI,15-1252.00,Software Developers,15,Level II,70886.0,MISSOURI,Bachelor's,3,2023,Denied,684
+2023-03-02,MISSOURI,15-1252.00,Software Developers,15,Level I,54538.0,MISSOURI,Bachelor's,3,2023,Denied,684
+2023-02-10,GEORGIA,15-1252.00,Software Developers,15,Level II,99008.0,GEORGIA,Master's,2,2023,Denied,704
+2023-02-08,GEORGIA,15-1252.00,Software Developers,15,Level II,99008.0,GEORGIA,Master's,2,2023,Denied,706
+2023-03-08,GEORGIA,15-1252.00,Senior Developer,15,Level III,114067.0,ILLINOIS,Bachelor's,3,2023,Denied,678
+2023-05-11,VIRGINIA,15-1252.00,Software Developers,15,Level II,110240.0,VIRGINIA,Master's,5,2023,Denied,614
+2023-05-05,"MISSOURI NRRM, LLC dba CarShield",15-1252.00,Software Developer,15,Level IV,122970.0,MISSOURI,Bachelor's,5,2023,Denied,620
+2023-04-28,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,4,2023,Denied,627
+2023-05-02,GEORGIA,15-1252.00,Software Developers,15,Level IV,123406.0,GEORGIA,Bachelor's,5,2023,Denied,623
+2023-05-03,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,622
+2023-04-27,TEXAS,15-1252.00,SOFTWARE DEVELOPER,15,Level I,80850.0,TEXAS,Bachelor's,4,2023,Denied,628
+2023-05-09,DISTRICT OF COLUMBIA,15-1252.00,Software Engineering  Lead Associate,15,Level III,133640.0,VIRGINIA,Master's,5,2023,Denied,616
+2023-05-11,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,614
+2023-05-11,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,614
+2023-05-11,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,614
+2023-05-30,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,595
+2023-05-31,NEW JERSEY,15-1252.00,SOFTWARE DEVELOPER,15,Level II,109283.0,NEW JERSEY,Master's,5,2023,Denied,594
+2023-05-15,TEXAS,15-1253.00,Software Quality Assurance Analysts and Testers,15,Level I,57470.0,TEXAS,Bachelor's,5,2023,Denied,610
+2023-03-06,NORTH CAROLINA,15-2011.00,Actuaries,15,Level IV,167003.0,NORTH CAROLINA,Bachelor's,3,2023,Denied,680
+2023-05-08,MISSOURI,15-2051.00,Data Scientist,15,Level II,78603.0,MISSOURI,Master's,5,2023,Denied,617
+2023-05-09,COLORADO,15-2051.00,Data Scientists,15,Level II,87880.0,COLORADO,Master's,5,2023,Denied,616
+2023-05-31,VIRGINIA,15-2051.01,Business Intelligence Analysts,15,Unknown,115928.0,VIRGINIA,Bachelor's,5,2023,Denied,594
+2023-05-09,DISTRICT OF COLUMBIA,17-1011.00,Architectural Designer,17,Level II,77834.0,DISTRICT OF COLUMBIA,Master's,5,2023,Denied,616
+2023-02-06,CALIFORNIA,17-2051,Civil Engineers,17,Level II,116438.0,CALIFORNIA,Master's,2,2023,Denied,708
+2023-03-02,CALIFORNIA,17-2051.00,Civil Engineers,17,Level III,108971.0,CALIFORNIA,Master's,3,2023,Denied,684
+2023-05-03,FLORIDA,17-2051.00,Assistant Project Manager,17,Level II,82451.0,INDIANA,Master's,5,2023,Denied,622
+2023-03-20,OHIO,17-2051.02,Wastewater Engineer,17,Level IV,101712.0,OHIO,Master's,3,2023,Denied,666
+2023-03-08,TEXAS,17-2112,Industrial Engineers,17,Level II,84718.0,TEXAS,Master's,3,2023,Denied,678
+2023-05-23,TEXAS,17-2112.02,Industrial Engineers,17,Level III,103979.0,TEXAS,Master's,5,2023,Denied,602
+2023-05-02,ILLINOIS,17-2112.03,Manufacturing Engineer,17,Level I,59488.0,IOWA,Bachelor's,5,2023,Denied,623
+2023-05-31,NEW YORK,17-2141,Mechanical Engineers,17,Unknown,84260.0,NEW YORK,Master's,5,2023,Denied,594
+2023-04-13,CALIFORNIA,19-3033.00,Director of Education,19,Level II,94349.0,CALIFORNIA,Master's,4,2023,Denied,642
+2023-01-10,VIRGINIA,23-1011,Patent Attorney,23,Level II,148678.0,VIRGINIA,Other,1,2023,Denied,735
+2023-05-31,FLORIDA,23-2011,Legal Assistant,23,Level IV,67309.0,FLORIDA,Bachelor's,5,2023,Denied,594
+2023-02-04,FLORIDA,25-2021,PRESCHOOL ART TEACHER,25,Level II,56277.0,FLORIDA,Associate's,2,2023,Denied,710
+2023-03-02,NORTH CAROLINA,27-1021,COMMERCIAL AND INDUSTRIAL DESIGNERS,27,Level II,52915.0,NORTH CAROLINA,Bachelor's,3,2023,Denied,684
+2023-05-30,CALIFORNIA,27-2012.05,Technical DirectorsManagers,27,Level I,63898.0,CALIFORNIA,High School,5,2023,Denied,595
+2023-05-12,PENNSYLVANIA,29-1021,Dentist,29,Level I,107640.0,PENNSYLVANIA,Doctorate,5,2023,Denied,613
+2023-03-23,CALIFORNIA,29-1051,Pharmacist,29,Level I,105810.0,CALIFORNIA,Bachelor's,3,2023,Denied,663
+2023-05-19,MASSACHUSETTS,29-1122,Occupational Therapists,29,Level II,105019.0,CALIFORNIA,Master's,5,2023,Denied,606
+2023-05-04,CALIFORNIA,29-1291.00,acupuncturist,29,Level I,29806.0,CALIFORNIA,Master's,5,2023,Denied,621
+2023-05-27,KENTUCKY,29-2021,Dental Hygienist,29,Level II,61506.0,KENTUCKY,Bachelor's,5,2023,Denied,598
+2023-02-06,FLORIDA,29-2056,Veterinary Technologist and Technicians,29,Level II,24939.0,FLORIDA,Unknown,2,2023,Denied,708
+2022-11-04,FLORIDA,29-9091.00,Athletic Trainers,29,Level IV,64090.0,FLORIDA,Master's,11,2022,Denied,802
+2023-01-17,CALIFORNIA,31-1121.00,HOME HEALTH AIDES,31,Level I,29640.0,CALIFORNIA,High School,1,2023,Denied,728
+2023-05-26,CALIFORNIA,31-1121.00,HOME HEALTH AIDES,31,Level I,29640.0,CALIFORNIA,High School,5,2023,Denied,599
+2023-05-02,HAWAII,31-1131.00,Nursing Assistant,31,Level I,28912.0,HAWAII,High School,5,2023,Denied,623
+2023-05-20,CALIFORNIA,31-2022.00,Physical Therapist Attendant,31,Level I,29120.0,CALIFORNIA,Unknown,5,2023,Denied,605
+2023-03-13,CALIFORNIA,31-9091.00,Dental Assistant,31,Level II,41246.0,CALIFORNIA,Unknown,3,2023,Denied,673
+2023-04-12,FLORIDA,35-1012,Food Service Supervisor,35,Level III,39208.0,FLORIDA,High School,4,2023,Denied,643
+2023-04-16,TEXAS,35-2014,Mediterranean food Chef,35,Level IV,32.7,TEXAS,Unknown,4,2023,Denied,639
+2023-01-11,CONNECTICUT Windham County,35-2014,"Cooks, Restaurant",35,Level I,29245.0,CONNECTICUT,Unknown,1,2023,Denied,734
+2023-02-05,FLORIDA,35-2014,Cooket,35,Level III,34445.0,FLORIDA,Unknown,2,2023,Denied,709
+2023-02-21,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level I,23566.0,FLORIDA,Unknown,2,2023,Denied,693
+2023-02-06,FLORIDA,35-2014.00,"Cooks, Restaurant",35,Level III,34445.0,FLORIDA,Unknown,2,2023,Denied,708
+2023-03-23,NEW YORK,35-2014.00,COOK,35,Level III,37606.0,NEW YORK,Unknown,3,2023,Denied,663
+2023-05-08,FLORIDA Pinellas,37-2012.00,Housekeeper,37,Unknown,22090.0,FLORIDA,High School,5,2023,Denied,617
+2023-05-08,FLORIDA Pinellas,37-2012.00,Housekeeper,37,Unknown,22090.0,FLORIDA,High School,5,2023,Denied,617
+2023-05-08,FLORIDA Pinellas,37-2012.00,Housekeeper,37,Unknown,22090.0,FLORIDA,High School,5,2023,Denied,617
+2023-05-08,FLORIDA Pinellas,37-2012.00,Housekeeper,37,Unknown,22090.0,FLORIDA,High School,5,2023,Denied,617
+2023-05-08,FLORIDA Pinellas,37-2012.00,Housekeeper,37,Unknown,22090.0,FLORIDA,High School,5,2023,Denied,617
+2023-01-10,CALIFORNIA,39-9011.01,NANNY,39,Level IV,49546.0,CALIFORNIA,Bachelor's,1,2023,Denied,735
+2023-04-17,TEXAS,39-9011.01,Nannies,39,Level I,19136.0,TEXAS,High School,4,2023,Denied,638
+2023-03-01,ARKANSAS,41-1011,Manager,41,Level I,40664.0,ARKANSAS,High School,3,2023,Denied,685
+2023-02-21,FLORIDA,43-4081,"Hotel, Motel, and Resort Desk Clerks",43,Level I,21424.0,FLORIDA,Unknown,2,2023,Denied,693
+2023-02-21,FLORIDA,43-4081,"Hotel, Motel, and Resort Desk Clerks",43,Level I,21424.0,FLORIDA,Unknown,2,2023,Denied,693
+2023-05-25,NORTH CAROLINA,43-4171.00,Secretary Receptionist,43,Level III,400.0,NORTH CAROLINA,Associate's,5,2023,Denied,600
+2023-03-06,FLORIDA,43-6011.00,Executive Secretaries and Executive Administrative Assistants,43,Level II,36691.0,FLORIDA,High School,3,2023,Denied,680
+2023-05-12,FLORIDA,43-6014,ADMIN ASSISTANT,43,Level II,32032.0,FLORIDA,High School,5,2023,Denied,613
+2023-04-25,ILLINOIS,43-6014.00,ADMISTRATIVE ASSISTANT,43,Level IV,52853.0,ILLINOIS,High School,4,2023,Denied,630
+2023-05-23,CALIFORNIA,43-9021.00,Data Encoder,43,Level I,33770.0,CALIFORNIA,Unknown,5,2023,Denied,602
+2023-05-10,SOUTH DAKOTA,45-2091,Agricultural Equipment Operators,45,Level III,43306.0,SOUTH DAKOTA,Unknown,5,2023,Denied,615
+2023-04-14,FLORIDA,45-2092,first line supervisors of agricultural crop and horticultural,45,Level I,23400.0,FLORIDA,Unknown,4,2023,Denied,641
+2023-03-23,CALIFORNIA,45-2093.00,"FARMWORKERS, FARM, RANCH, AND AQUACULTURAL ANIMALS",45,Level IV,43597.0,CALIFORNIA,Unknown,3,2023,Denied,663
+2023-02-09,PUERTO RICO,47-1011,FIRST LINE SUPERVISOR OF CONSTRUCTION,47,Level IV,38480.0,PUERTO RICO,High School,2,2023,Denied,705
+2023-03-09,NEW YORK,47-1011.00,Scaffolding Supervisor,47,Level IV,105500.0,NEW YORK,Unknown,3,2023,Denied,677
+2023-05-01,WISCONSIN,49-1011,Factory Certified Installer and Service Technician,49,Level IV,86445.0,WISCONSIN,Unknown,5,2023,Denied,624
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,684
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,684
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,684
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,684
+2023-03-02,ALABAMA,53-3032,Truck Driver,53,Level III,43493.0,ALABAMA,Unknown,3,2023,Denied,684
+2023-05-08,FLORIDA,53-3033.00,Light Truck Drivers,53,Level II,16.43,FLORIDA,Unknown,5,2023,Denied,617
+2023-05-02,NEVADA,53-3033.00,Light Truck Drivers,53,Level II,33488.0,NEVADA,High School,5,2023,Denied,623
+2023-05-02,NEVADA,53-3033.00,Light Truck Drivers,53,Level II,33488.0,NEVADA,High School,5,2023,Denied,623
+2023-04-06,MASSACHUSETTS,,0ZERO,na,Unknown,0.0,MASSACHUSETTS,Unknown,4,2023,Denied,649
+2020-12-14,ILLINOIS,15-1199,Information Technology Project Managers,15,Level IV,111238.0,CALIFORNIA,Bachelor's,12,2020,Certified,1495
