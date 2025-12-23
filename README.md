@@ -80,3 +80,110 @@ Processed_Visa_Dataset.csv
 -> Python 3.x
 -> Pandas
 -> NumPy
+
+
+# Milestone 2: Exploratory Data Analysis (EDA)
+
+🎯 Objective
+
+The objective of this milestone is to uncover meaningful patterns and trends in the processed visa dataset to inform feature selection for the AI model developed in Milestone 3.
+
+Python visualization libraries (Matplotlib and Seaborn) were used to analyze distributions, correlations, and temporal patterns.
+
+🔍 Key Insights & Trends
+1. Processing Time Analysis
+
+Observation
+
+Processing times are not uniformly distributed.
+
+A clear average wait-time cluster exists.
+
+Significant outliers indicate cases with extremely long processing durations.
+
+Model Implication
+
+The regression model must be robust to outliers.
+
+Metrics such as Median Absolute Error (MAE) may be more appropriate than relying solely on RMSE.
+
+2. Geographic Hotspots
+
+Observation
+
+A small number of states (e.g., California, Texas, New York) account for the majority of visa applications.
+
+Trend
+
+Processing times and denial rates vary slightly by state.
+
+Feature Impact
+
+EMPLOYER_STATE is identified as a high-value predictive feature.
+
+3. Education & Skill Correlation
+
+Observation
+
+Certification outcomes vary by education level.
+
+Applicants with Master’s or Doctorate degrees show different approval patterns compared to High School or Bachelor’s degree holders.
+
+Decision
+
+MINIMUM_EDUCATION will be retained as a critical categorical feature in the model.
+
+4. Seasonality (Time Series Analysis)
+
+Observation
+
+Average processing times fluctuate across submission months.
+
+Certain months exhibit noticeable backlogs.
+
+Feature Engineering Confirmation
+
+The cyclic features derived from SUBMISSION_MONTH (created in Milestone 1) are validated for modeling.
+
+🧪 Artifacts Generated
+
+The visa_eda.py script automatically generates the following visualizations in the output_charts/ directory:
+
+Processing Time Distribution
+Histogram of visa processing wait times
+
+State Status Distribution
+Bar chart showing Certified vs. Denied cases by top states
+
+Education Impact
+Stacked bar chart of certification probabilities by education level
+
+Seasonal Trends
+Line graph of average processing time across submission months
+
+Wage vs. Processing Time
+Scatter plot analyzing correlation between offered wage and processing speed
+
+▶️ How to Run the Analysis
+1. Ensure Dataset Availability
+
+Make sure the following file is present in the project directory:
+
+Processed_Visa_Dataset.csv
+
+2. Install Required Libraries
+pip install pandas matplotlib seaborn
+
+3. Run the EDA Script
+python visa_eda.py
+
+
+All generated charts will be saved to the output_charts/ directory.
+
+📌 Next Steps
+
+Use identified high-impact features in Milestone 3 (Model Development)
+
+Apply outlier-resistant modeling techniques
+
+Incorporate geographic and seasonal patterns into predictive features
